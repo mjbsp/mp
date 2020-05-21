@@ -46,3 +46,6 @@ Sign up for the [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdqp5JwA
  - **July 2**: [Mara Ostfeld](https://lsa.umich.edu/polisci/people/faculty/mara-cecilia-ostfeld.html) and [Nicole Yadon](https://sites.lsa.umich.edu/nicoleyadon/), "The Gravity of Color: Skin Color and Power in Contemporary American Politics"
 
  - **July 9**: [Salma Mousa](https://www.salmamousa.com/), “Contact in the Classroom: Can Virtual Exchanges Build Tolerance?”
+
+**Organizers**
+Nazita Lajevardi, Ana Bracic, Mark Brandt
