@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Minority Politics
 
 # Username (this should match the folder name)
 authors:
@@ -10,66 +10,26 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Online Seminiar Series
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: 
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: A zoom seminar series on minority politics in comparative politics, American politics, and political psychology.  
 
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
-education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+  link: mailto:nazita@msu.edu
 
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+ - June 4: Adam Bonica, Jake Grumbach, Charlotte Hill, and Hakeem Jefferson, "All-Mail Voting Increases Turnout and Reduces Turnout Inequality"
+ - June 11: Sa-Kiera Hudson, Mina Cikara, and Jim Sidanius "Preference for hierarchy is associated with apathetic and antipathic emotions and policies"
+ - June 18: Maja Kutlaca and Ruthie Pliskin, "Be mindful of your own bigotry! Confrontation of ideological intolerance and the implications for conflict resolution"
+ - June 25: Prabin Khadka, "Casualties of War and Radical Extremism: Experimental Evidence from Somalia"
+ - July 2: Mara Ostfeld and Nicole Yadon, "The Gravity of Color: Skin Color and Power in Contemporary American Politics"
+ - July 9: Salma Mousa, “Contact in the Classroom: Can Virtual Exchanges Build Tolerance?”
