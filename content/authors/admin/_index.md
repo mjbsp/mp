@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Online Seminiar Series
+role: Online Seminar Series
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: A zoom seminar series on minority politics in comparative politics, American politics, and political psychology.  
+bio: A Zoom seminar series on minority politics in comparative politics, American politics, and political psychology.  
 
 # social:
 # - icon: envelope
@@ -27,9 +27,9 @@ bio: A zoom seminar series on minority politics in comparative politics, America
 
 ---
 
-A zoom seminar series on minority politics in comparative politics, American politics, and political psychology. Talks are on Thursdays at 9 am PST, 12p EST, and 6p CET. They will be 1 hour long, with a 40-45 minute zoom presentation and a 15 minute question and answer session. We aim to bring together interested folks from different regions, continents, and subfields to participate in these workshops. ALL are welcome!
+A Zoom seminar series on minority politics in comparative politics, American politics, and political psychology. Talks are on Thursdays at 9 am PST, 12p EST, and 6p CET. They will be 1 hour long, with a 40-45 minute zoom presentation and a 15 minute question and answer session. We aim to bring together interested folks from different regions, continents, and subfields to participate in these workshops. ALL are welcome!
 
-We take a broad perspective on what kind of research falls within the scope of Minority Politics. Social scientists have long been involved in studying the ways that groups define themselves according to national origin, ethnicity, religion, race, caste, tribe, region, gender, and/or class markers. All of those who are interested in learning more about groups, defined alongside these dynamic lines, will find a home in this seminar series. 
+We take a broad perspective on what kind of research falls within the scope of Minority Politics. Social scientists have long been involved in studying the ways that groups define themselves according to national origin, ethnicity, religion, race, caste, tribe, region, gender, and/or class markers. All of those who are interested in learning more about groups, defined alongside these dynamic lines, will find a home in this seminar series.
 
 Sign up for the [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdqp5JwANqiZNKUmm1avmkbj9-E_pRl5mGVC8esfG3dtaiHKw/viewform) to receive the Zoom invitation and keep updated!
 
