@@ -47,4 +47,4 @@ Sign up for the [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdqp5JwA
 
  - **July 9**: [Salma Mousa](https://www.salmamousa.com/), “Contact in the Classroom: Can Virtual Exchanges Build Tolerance?”
 
-**Organizers**: Nazita Lajevardi, Ana Bracic, Mark Brandt
+**Organizers**: [Nazita Lajevardi](http://www.nazitalajevardi.com/), [Ana Bracic](https://www.anabracic.com/), [Mark Brandt](https://tbslaboratory.com/)
