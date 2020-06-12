@@ -31,11 +31,9 @@ A Zoom seminar series on minority politics in comparative politics, American pol
 
 We take a broad perspective on what kind of research falls within the scope of Minority Politics. Social scientists have long been involved in studying the ways that groups define themselves according to national origin, ethnicity, religion, race, caste, tribe, region, gender, and/or class markers. All of those who are interested in learning more about groups, defined alongside these dynamic lines, will find a home in this seminar series.
 
-Sign up for the [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdqp5JwANqiZNKUmm1avmkbj9-E_pRl5mGVC8esfG3dtaiHKw/viewform) to receive the Zoom invitation and keep updated!
+Sign up for the [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdqp5JwANqiZNKUmm1avmkbj9-E_pRl5mGVC8esfG3dtaiHKw/viewform) to receive the Zoom invitation and keep updated! Zoom invitations are sent approximately 24 hours before the start of the seminar.
 
 ## Upcoming Talks
-
- - **June 11**: [Sa-Kiera Hudson](http://www.sakierahudson.com/), [Mina Cikara](http://www.intergroupneurosciencelaboratory.com/), and [Jim Sidanius](https://scholar.harvard.edu/sidanius/home), "Preference for hierarchy is associated with apathetic and antipathic emotions and policies"
 
  - **June 18**: [Maja Kutlaca](https://scholar.google.com/citations?user=Kv5-f2cAAAAJ&hl=en) and [Ruthie Pliskin](http://www.ruthiepliskin.com/), "Be mindful of your own bigotry! Confrontation of ideological intolerance and the implications for conflict resolution"
 
@@ -48,5 +46,7 @@ Sign up for the [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdqp5JwA
 ## Past Talks
 
  - **June 4**: [Adam Bonica](https://web.stanford.edu/~bonica/), [Jake Grumbach](https://www.polisci.washington.edu/people/jake-grumbach), [Charlotte Hill](https://charlottelhill.com/), and [Hakeem Jefferson](https://politicalscience.stanford.edu/people/hakeem-j-jefferson), "All-Mail Voting Increases Turnout and Reduces Turnout Inequality" | [working paper](https://www.dropbox.com/s/8n4zjvgmytim1rv/Bonica_Grumbach_Hill_Jefferson_Mail_Voting.pdf?raw=1)
+
+- **June 11**: [Sa-Kiera Hudson](http://www.sakierahudson.com/), [Mina Cikara](http://www.intergroupneurosciencelaboratory.com/), and [Jim Sidanius](https://scholar.harvard.edu/sidanius/home), "Preference for hierarchy is associated with apathetic and antipathic emotions and policies"
 
 **Organizers**: [Ana Bracic](https://www.anabracic.com/), [Mark Brandt](https://tbslaboratory.com/), [Nazita Lajevardi](http://www.nazitalajevardi.com/)
