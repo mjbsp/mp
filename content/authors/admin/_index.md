@@ -43,10 +43,10 @@ Sign up for the [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdqp5JwA
 
 ## Past Talks
 
- - **June 4**: [Adam Bonica](https://web.stanford.edu/~bonica/), [Jake Grumbach](https://www.polisci.washington.edu/people/jake-grumbach), [Charlotte Hill](https://charlottelhill.com/), and [Hakeem Jefferson](https://politicalscience.stanford.edu/people/hakeem-j-jefferson), "All-Mail Voting Increases Turnout and Reduces Turnout Inequality" | [working paper](https://www.dropbox.com/s/8n4zjvgmytim1rv/Bonica_Grumbach_Hill_Jefferson_Mail_Voting.pdf?raw=1)
+ - **June 4**: [Adam Bonica](https://web.stanford.edu/~bonica/), [Jake Grumbach](https://www.polisci.washington.edu/people/jake-grumbach), [Charlotte Hill](https://charlottelhill.com/), and [Hakeem Jefferson](https://politicalscience.stanford.edu/people/hakeem-j-jefferson), "All-Mail Voting Increases Turnout and Reduces Turnout Inequality" | [working paper](https://www.dropbox.com/s/8n4zjvgmytim1rv/Bonica_Grumbach_Hill_Jefferson_Mail_Voting.pdf?raw=1) | [video](https://www.dropbox.com/s/iq8sofur9cqm3nc/Grumback%20Jefferson%20MPOSS%20Zoom%20-%20June%204.mp4?dl=0)
 
-- **June 11**: [Sa-Kiera Hudson](http://www.sakierahudson.com/), [Mina Cikara](http://www.intergroupneurosciencelaboratory.com/), and [Jim Sidanius](https://scholar.harvard.edu/sidanius/home), "Preference for hierarchy is associated with apathetic and antipathic emotions and policies"
+- **June 11**: [Sa-Kiera Hudson](http://www.sakierahudson.com/), [Mina Cikara](http://www.intergroupneurosciencelaboratory.com/), and [Jim Sidanius](https://scholar.harvard.edu/sidanius/home), "Preference for hierarchy is associated with apathetic and antipathic emotions and policies" | [video](https://www.dropbox.com/s/ax8pdcylz04qx6m/Sa-Kiera%20Hudson%20Talk.mp4?dl=0)
 
- - **June 18**: [Maja Kutlaca](https://scholar.google.com/citations?user=Kv5-f2cAAAAJ&hl=en) and [Ruthie Pliskin](http://www.ruthiepliskin.com/), "Be mindful of your own bigotry! Confrontation of ideological intolerance and the implications for conflict resolution"
+ - **June 18**: [Maja Kutlaca](https://scholar.google.com/citations?user=Kv5-f2cAAAAJ&hl=en) and [Ruthie Pliskin](http://www.ruthiepliskin.com/), "Be mindful of your own bigotry! Confrontation of ideological intolerance and the implications for conflict resolution" | [video](https://www.dropbox.com/s/a07kuh8e0hxxajo/Maja%20Kutlaca.mp4?dl=0)
 
 **Organizers**: [Ana Bracic](https://www.anabracic.com/), [Mark Brandt](https://tbslaboratory.com/), [Nazita Lajevardi](http://www.nazitalajevardi.com/)
