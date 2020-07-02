@@ -39,7 +39,21 @@ Sign up for the [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdqp5JwA
 
  - **July 9**: [Salma Mousa](https://www.salmamousa.com/), “Contact in the Classroom: Can Virtual Exchanges Build Tolerance?”
 
- - **Save the Dates!** Additional talks are being scheduled for between July 23rd and September 3rd.
+ - **July 16th**: No seminar. [A break](https://youtu.be/GxZuq57_bYM)
+
+ - **July 23**: [Adeline Lo](https://www.loadeline.com/), [Scott Williamson](https://www.scott-williamson.com/), [Claire Adida](https://claire.adida.net/), [Melina Platas](https://melinaplatas.com/), [Lauren Prather](https://gps.ucsd.edu/faculty-directory/lauren-prather.html), and [Seth Werfel](https://www.sethwerfel.net/), “Increasing Immigrant Inclusion: Family History, Empathy, and Immigration in the United States”
+
+ - **July 30**: [Calvin Lai](https://calvinklai.wordpress.com/), [Pierce D. Ekstrom](https://www.pierceekstrom.com/), [Joel M. Le Forestier](https://joelleforestier.com/), “Racial disparities in police traffic stops are associated with county-level racial prejudice”
+
+- **August 6**: [Nkemka Anyiwo](https://www.nkemkaanyiwo.com/), “We Gon’ Be Alright: Racism, Media, & the Sociopolitical Development of Black Youth”
+
+- **August 13**: [Stephanie Zonszein](https://stephaniezonszein.com/), “Turn On, Tune In, Turn Out: Ethnic Radio and Immigrants’ Political Engagement"
+
+- **August 20**: [Princess Williams](https://lsa.umich.edu/polisci/people/graduate-students/princess-williams.html), “The Politics of Place: How Southern Identity Shapes Americans' Racial Attitudes & Policy Preferences”
+
+- **August 27**: [Yamil Velez](https://www.yamilrvelez.com/), [Angel Saavedra Cisneros](https://www.snc.edu/academics/faculty/angel.saavedracisneros.html), and [Jose Gomez](https://polisci.columbia.edu/content/jose-s-gomez), “Bridging The Language Gap: A New Measurement Approach for Multilingual Surveys”
+
+- **September 3**: Book editor’s roundtable with representatives from Oxford University Press, Cambridge University Press, New York University Press, Columbia University Press, and Temple University Press
 
 ## Past Talks
 
