@@ -35,8 +35,6 @@ Sign up for the [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdqp5JwA
 
 ## Upcoming Talks
 
- - **July 2**: [Mara Ostfeld](https://lsa.umich.edu/polisci/people/faculty/mara-cecilia-ostfeld.html) and [Nicole Yadon](https://sites.lsa.umich.edu/nicoleyadon/), "The Gravity of Color: Skin Color and Power in Contemporary American Politics"
-
  - **July 9**: [Salma Mousa](https://www.salmamousa.com/), “Contact in the Classroom: Can Virtual Exchanges Build Tolerance?”
 
  - **July 16th**: No seminar. [A break](https://youtu.be/GxZuq57_bYM)
@@ -64,5 +62,7 @@ Sign up for the [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdqp5JwA
  - **June 18**: [Maja Kutlaca](https://scholar.google.com/citations?user=Kv5-f2cAAAAJ&hl=en) and [Ruthie Pliskin](http://www.ruthiepliskin.com/), "Be mindful of your own bigotry! Confrontation of ideological intolerance and the implications for conflict resolution" | [video](https://www.dropbox.com/s/a07kuh8e0hxxajo/Maja%20Kutlaca.mp4?dl=0)
 
  - **June 25**: [Prabin Khadka](http://prabinkhadka.com/), "Casualties of War and Radical Extremism: Experimental Evidence from Somalia" | [video](https://www.dropbox.com/s/veu8ytauycsh24n/zoom_1.mp4?dl=0)
+
+  - **July 2**: [Mara Ostfeld](https://lsa.umich.edu/polisci/people/faculty/mara-cecilia-ostfeld.html) and [Nicole Yadon](https://sites.lsa.umich.edu/nicoleyadon/), "The Gravity of Color: Skin Color and Power in Contemporary American Politics"
 
 **Organizers**: [Ana Bracic](https://www.anabracic.com/), [Mark Brandt](https://tbslaboratory.com/), [Nazita Lajevardi](http://www.nazitalajevardi.com/)
