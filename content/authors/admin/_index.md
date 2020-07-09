@@ -35,8 +35,6 @@ Sign up for the [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdqp5JwA
 
 ## Upcoming Talks
 
- - **July 9**: [Salma Mousa](https://www.salmamousa.com/), “Contact in the Classroom: Can Virtual Exchanges Build Tolerance?”
-
  - **July 16th**: No seminar. [A break](https://youtu.be/GxZuq57_bYM)
 
  - **July 23**: [Adeline Lo](https://www.loadeline.com/), [Scott Williamson](https://www.scott-williamson.com/), [Claire Adida](https://claire.adida.net/), [Melina Platas](https://melinaplatas.com/), [Lauren Prather](https://gps.ucsd.edu/faculty-directory/lauren-prather.html), and [Seth Werfel](https://www.sethwerfel.net/), “Increasing Immigrant Inclusion: Family History, Empathy, and Immigration in the United States”
@@ -64,5 +62,7 @@ Sign up for the [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdqp5JwA
  - **June 25**: [Prabin Khadka](http://prabinkhadka.com/), "Casualties of War and Radical Extremism: Experimental Evidence from Somalia" | [video](https://www.dropbox.com/s/veu8ytauycsh24n/zoom_1.mp4?dl=0)
 
   - **July 2**: [Mara Ostfeld](https://lsa.umich.edu/polisci/people/faculty/mara-cecilia-ostfeld.html) and [Nicole Yadon](https://sites.lsa.umich.edu/nicoleyadon/), "The Gravity of Color: Skin Color and Power in Contemporary American Politics"
+
+ - **July 9**: [Salma Mousa](https://www.salmamousa.com/), “Contact in the Classroom: Can Virtual Exchanges Build Tolerance?” | [video](https://www.dropbox.com/s/i8usy814iw4s9hk/zoom_0.mp4?dl=0)
 
 **Organizers**: [Ana Bracic](https://www.anabracic.com/), [Mark Brandt](https://tbslaboratory.com/), [Nazita Lajevardi](http://www.nazitalajevardi.com/)
