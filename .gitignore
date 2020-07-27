@@ -6,4 +6,4 @@ resources/
 public/
 .Rproj.user
 themes/academic
-submodules
+submodules=dirty
