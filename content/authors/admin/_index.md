@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: A Zoom seminar series on minority politics in comparative politics, American politics, and political psychology.  
+bio: MPOSS is a Zoom seminar series on minority politics in comparative politics, American politics, and political psychology.  
 
 # social:
 # - icon: envelope
@@ -34,8 +34,6 @@ We take a broad perspective on what kind of research falls within the scope of M
 Sign up for the [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdqp5JwANqiZNKUmm1avmkbj9-E_pRl5mGVC8esfG3dtaiHKw/viewform) to receive the Zoom invitation and keep updated! Zoom invitations are sent approximately 24 hours before the start of the seminar. If you've signed up, but don't receive an invitation check the depths of your SPAM folder.
 
 ## Upcoming Talks
-
- - **July 30**: [Calvin Lai](https://calvinklai.wordpress.com/), [Pierce D. Ekstrom](https://www.pierceekstrom.com/), [Joel M. Le Forestier](https://joelleforestier.com/), “Racial disparities in police traffic stops are associated with county-level racial prejudice”
 
 - **August 6**: [Nkemka Anyiwo](https://www.nkemkaanyiwo.com/), “We Gon’ Be Alright: Racism, Media, & the Sociopolitical Development of Black Youth”
 
@@ -64,5 +62,7 @@ Sign up for the [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdqp5JwA
  - **July 16th**: No seminar. [A break](https://youtu.be/GxZuq57_bYM)
 
   - **July 23**: [Adeline Lo](https://www.loadeline.com/), [Scott Williamson](https://www.scott-williamson.com/), [Claire Adida](https://claire.adida.net/), [Melina Platas](https://melinaplatas.com/), [Lauren Prather](https://gps.ucsd.edu/faculty-directory/lauren-prather.html), and [Seth Werfel](https://www.sethwerfel.net/), “Increasing Immigrant Inclusion: Family History, Empathy, and Immigration in the United States” | [video](https://www.dropbox.com/s/vtklhvw3s0kouk4/zoom_1.mp4?dl=0)
+
+   - **July 30**: [Calvin Lai](https://calvinklai.wordpress.com/), [Pierce D. Ekstrom](https://www.pierceekstrom.com/), [Joel M. Le Forestier](https://joelleforestier.com/), “Racial disparities in police traffic stops are associated with county-level racial prejudice” | [video](https://www.dropbox.com/s/0t6mjsxuw3tr083/zoom_1.mp4?dl=0)
 
 **Organizers**: [Ana Bracic](https://www.anabracic.com/), [Mark Brandt](https://tbslaboratory.com/), [Nazita Lajevardi](http://www.nazitalajevardi.com/)
