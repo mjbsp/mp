@@ -35,8 +35,6 @@ Sign up for the [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdqp5JwA
 
 ## Upcoming Talks
 
-- **August 6**: [Nkemka Anyiwo](https://www.nkemkaanyiwo.com/), “We Gon’ Be Alright: Racism, Media, & the Sociopolitical Development of Black Youth”
-
 - **August 13**: [Stephanie Zonszein](https://stephaniezonszein.com/), “Turn On, Tune In, Turn Out: Ethnic Radio and Immigrants’ Political Engagement"
 
 - **August 20**: [Princess Williams](https://lsa.umich.edu/polisci/people/graduate-students/princess-williams.html), “The Politics of Place: How Southern Identity Shapes Americans' Racial Attitudes & Policy Preferences”
@@ -64,5 +62,7 @@ Sign up for the [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdqp5JwA
   - **July 23**: [Adeline Lo](https://www.loadeline.com/), [Scott Williamson](https://www.scott-williamson.com/), [Claire Adida](https://claire.adida.net/), [Melina Platas](https://melinaplatas.com/), [Lauren Prather](https://gps.ucsd.edu/faculty-directory/lauren-prather.html), and [Seth Werfel](https://www.sethwerfel.net/), “Increasing Immigrant Inclusion: Family History, Empathy, and Immigration in the United States” | [video](https://www.dropbox.com/s/vtklhvw3s0kouk4/zoom_1.mp4?dl=0)
 
    - **July 30**: [Calvin Lai](https://calvinklai.wordpress.com/), [Pierce D. Ekstrom](https://www.pierceekstrom.com/), [Joel M. Le Forestier](https://joelleforestier.com/), “Racial disparities in police traffic stops are associated with county-level racial prejudice” | [video](https://www.dropbox.com/s/0t6mjsxuw3tr083/zoom_1.mp4?dl=0)
+
+   - **August 6**: [Nkemka Anyiwo](https://www.nkemkaanyiwo.com/), “We Gon’ Be Alright: Racism, Media, & the Sociopolitical Development of Black Youth” | [video](https://www.dropbox.com/s/u106eknzcv6exqs/zoom_1.mp4?dl=0)
 
 **Organizers**: [Ana Bracic](https://www.anabracic.com/), [Mark Brandt](https://tbslaboratory.com/), [Nazita Lajevardi](http://www.nazitalajevardi.com/)
