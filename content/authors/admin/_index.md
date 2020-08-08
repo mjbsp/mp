@@ -63,6 +63,6 @@ Sign up for the [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdqp5JwA
 
    - **July 30**: [Calvin Lai](https://calvinklai.wordpress.com/), [Pierce D. Ekstrom](https://www.pierceekstrom.com/), [Joel M. Le Forestier](https://joelleforestier.com/), “Racial disparities in police traffic stops are associated with county-level racial prejudice” | [video](https://www.dropbox.com/s/0t6mjsxuw3tr083/zoom_1.mp4?dl=0)
 
-   - **August 6**: [Nkemka Anyiwo](https://www.nkemkaanyiwo.com/), “We Gon’ Be Alright: Racism, Media, & the Sociopolitical Development of Black Youth” | [video](https://www.dropbox.com/s/u106eknzcv6exqs/zoom_1.mp4?dl=0)
+   - **August 6**: [Nkemka Anyiwo](https://www.nkemkaanyiwo.com/), “We Gon’ Be Alright: Racism, Media, & the Sociopolitical Development of Black Youth” 
 
 **Organizers**: [Ana Bracic](https://www.anabracic.com/), [Mark Brandt](https://tbslaboratory.com/), [Nazita Lajevardi](http://www.nazitalajevardi.com/)
