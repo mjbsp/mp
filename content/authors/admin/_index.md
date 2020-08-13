@@ -35,8 +35,6 @@ Sign up for the [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdqp5JwA
 
 ## Upcoming Talks
 
-- **August 13**: [Stephanie Zonszein](https://stephaniezonszein.com/), “Turn On, Tune In, Turn Out: Ethnic Radio and Immigrants’ Political Engagement"
-
 - **August 20**: [Princess Williams](https://lsa.umich.edu/polisci/people/graduate-students/princess-williams.html), “The Politics of Place: How Southern Identity Shapes Americans' Racial Attitudes & Policy Preferences”
 
 - **August 27**: [Yamil Velez](https://www.yamilrvelez.com/), [Angel Saavedra Cisneros](https://www.snc.edu/academics/faculty/angel.saavedracisneros.html), and [Jose Gomez](https://polisci.columbia.edu/content/jose-s-gomez), “Bridging The Language Gap: A New Measurement Approach for Multilingual Surveys”
@@ -63,6 +61,8 @@ Sign up for the [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdqp5JwA
 
    - **July 30**: [Calvin Lai](https://calvinklai.wordpress.com/), [Pierce D. Ekstrom](https://www.pierceekstrom.com/), [Joel M. Le Forestier](https://joelleforestier.com/), “Racial disparities in police traffic stops are associated with county-level racial prejudice” | [video](https://www.dropbox.com/s/0t6mjsxuw3tr083/zoom_1.mp4?dl=0)
 
-   - **August 6**: [Nkemka Anyiwo](https://www.nkemkaanyiwo.com/), “We Gon’ Be Alright: Racism, Media, & the Sociopolitical Development of Black Youth” 
+   - **August 6**: [Nkemka Anyiwo](https://www.nkemkaanyiwo.com/), “We Gon’ Be Alright: Racism, Media, & the Sociopolitical Development of Black Youth”
+
+   - **August 13**: [Stephanie Zonszein](https://stephaniezonszein.com/), “Turn On, Tune In, Turn Out: Ethnic Radio and Immigrants’ Political Engagement" | [video](https://www.dropbox.com/s/kpkpkyloul1kht8/zoom_1.mp4?dl=0)
 
 **Organizers**: [Ana Bracic](https://www.anabracic.com/), [Mark Brandt](https://tbslaboratory.com/), [Nazita Lajevardi](http://www.nazitalajevardi.com/)
