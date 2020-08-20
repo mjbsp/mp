@@ -63,6 +63,6 @@ Sign up for the [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdqp5JwA
 
    - **August 13**: [Stephanie Zonszein](https://stephaniezonszein.com/), “Turn On, Tune In, Turn Out: Ethnic Radio and Immigrants’ Political Engagement" | [video](https://www.dropbox.com/s/kpkpkyloul1kht8/zoom_1.mp4?dl=0)
 
-- **August 20**: [Princess Williams](https://lsa.umich.edu/polisci/people/graduate-students/princess-williams.html), “The Politics of Place: How Southern Identity Shapes Americans' Racial Attitudes & Policy Preferences” | [Slides](https://www.dropbox.com/s/mdgrt6fr882rwka/PHWilliams%20-%20MPOSS%20Presentation.pdf?dl=0) | [Video](https://www.dropbox.com/s/3ap834uyxxlpm9v/zoom_1.mp4?dl=0)
+- **August 20**: [Princess Williams](https://lsa.umich.edu/polisci/people/graduate-students/princess-williams.html), “The Politics of Place: How Southern Identity Shapes Americans' Racial Attitudes & Policy Preferences” | [Slides](https://www.dropbox.com/s/mdgrt6fr882rwka/PHWilliams%20-%20MPOSS%20Presentation.pdf?dl=0) 
 
 **Organizers**: [Ana Bracic](https://www.anabracic.com/), [Mark Brandt](https://tbslaboratory.com/), [Nazita Lajevardi](http://www.nazitalajevardi.com/)
