@@ -33,10 +33,6 @@ Talks are at 9 am PST, 12p EST, and 6p CET. They are 1 hour long, with a 40-45 m
 
 Sign up for the [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdqp5JwANqiZNKUmm1avmkbj9-E_pRl5mGVC8esfG3dtaiHKw/viewform) to receive the Zoom invitation and keep updated! Zoom invitations are sent approximately 24 hours before the start of the seminar. If you've signed up, but don't receive an invitation check the depths of your SPAM folder.
 
-## Upcoming Talks (Thursdays at 9 am PST, 12p EST, and 6p CET)
-
-- **September 3**: Book editor’s roundtable with representatives from Oxford University Press, Cambridge University Press, New York University Press, Columbia University Press, and Temple University Press
-
 ## Upcoming Job Market MPOSS (Tuesdays at 9 am PST, 12p EST, and 6p CET)
 
  - **September 22**: [Roman Hlatky](https://romanhlatky.com/index.html), "EU Influence, Identity Politics, and Nationalist Vote Choice: Experimental Evidence from Slovakia"
@@ -78,5 +74,7 @@ Sign up for the [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdqp5JwA
 - **August 20**: [Princess Williams](https://lsa.umich.edu/polisci/people/graduate-students/princess-williams.html), “The Politics of Place: How Southern Identity Shapes Americans' Racial Attitudes & Policy Preferences” | [Slides](https://www.dropbox.com/s/mdgrt6fr882rwka/PHWilliams%20-%20MPOSS%20Presentation.pdf?dl=0)
 
 - **August 27**: [Yamil Velez](https://www.yamilrvelez.com/), [Angel Saavedra Cisneros](https://www.snc.edu/academics/faculty/angel.saavedracisneros.html), and [Jose Gomez](https://polisci.columbia.edu/content/jose-s-gomez), “Bridging The Language Gap: A New Measurement Approach for Multilingual Surveys”
+
+- **September 3**: Book editor’s roundtable with representatives from Oxford University Press, Cambridge University Press, New York University Press, Columbia University Press, and Temple University Press | [Video](https://www.dropbox.com/s/555702xi0fqmf70/zoom_1.mp4?dl=0)
 
 **Organizers**: [Ana Bracic](https://www.anabracic.com/), [Mark Brandt](https://tbslaboratory.com/), [Nazita Lajevardi](http://www.nazitalajevardi.com/)
