@@ -27,15 +27,29 @@ bio: MPOSS is a Zoom seminar series on minority politics in comparative politics
 
 ---
 
-MPOSS is a Zoom seminar series on minority politics in comparative politics, American politics, and political psychology. Talks are on Thursdays at 9 am PST, 12p EST, and 6p CET. They will be 1 hour long, with a 40-45 minute zoom presentation and a 15 minute question and answer session. We aim to bring together interested folks from different regions, continents, and subfields to participate in these workshops. ALL are welcome!
+MPOSS is a Zoom seminar series on minority politics in comparative politics, American politics, and political psychology. We take a broad perspective on what kind of research falls within the scope of Minority Politics. Social scientists have long been involved in studying the ways that groups define themselves according to national origin, ethnicity, religion, race, caste, tribe, region, gender, and/or class markers. All of those who are interested in learning more about groups, defined alongside these dynamic lines, will find a home in this seminar series.
 
-We take a broad perspective on what kind of research falls within the scope of Minority Politics. Social scientists have long been involved in studying the ways that groups define themselves according to national origin, ethnicity, religion, race, caste, tribe, region, gender, and/or class markers. All of those who are interested in learning more about groups, defined alongside these dynamic lines, will find a home in this seminar series.
+Talks are at 9 am PST, 12p EST, and 6p CET. They are 1 hour long, with a 40-45 minute zoom presentation and a 15 minute question and answer session. We aim to bring together interested folks from different regions, continents, and subfields to participate in these workshops. ALL are welcome!
 
 Sign up for the [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdqp5JwANqiZNKUmm1avmkbj9-E_pRl5mGVC8esfG3dtaiHKw/viewform) to receive the Zoom invitation and keep updated! Zoom invitations are sent approximately 24 hours before the start of the seminar. If you've signed up, but don't receive an invitation check the depths of your SPAM folder.
 
-## Upcoming Talks
+## Upcoming Talks (Thursdays at 9 am PST, 12p EST, and 6p CET)
 
 - **September 3**: Book editor’s roundtable with representatives from Oxford University Press, Cambridge University Press, New York University Press, Columbia University Press, and Temple University Press
+
+## Upcoming Job Market MPOSS (Tuesdays at 9 am PST, 12p EST, and 6p CET)
+
+ - **September 22**: [Roman Hlatky](https://romanhlatky.com/index.html), "EU Influence, Identity Politics, and Nationalist Vote Choice: Experimental Evidence from Slovakia"
+
+ - **September 29**: [(Max) Hui Bai](https://www.maxhuibai.com/about.html), “When racism and sexism benefit Black and female politicians: Politicians’ ideology moderates prejudice’s effect more than politicians’ demographic background"
+
+ - **October 6:** [Thekla Morgenroth](http://psychology.exeter.ac.uk/staff/profile/index.php?web_id=Thekla_Morgenroth), “Group-based inequity: How and why do people defend social categories and hierarchies?”
+
+ - **October 13**: [Nicole Audette](https://www.forcierconsulting.com), [Jeremy Horowitz](https://sites.dartmouth.edu/jhorowitz/) and [Kristin Michelitch](https://sites.google.com/site/kristinmichelitch/home?authuser=0), "Personal Narratives Reduce Negative Attitudes toward Refugees and Immigrant Outgroups: Evidence from Kenya"
+
+ - **October 20**: [Nura Sediqe](https://www.nurasediqe.com), Title to come
+
+ - **October 27**: [Christine Slaughter](http://www.christinemslaughter.com), "No Strangers to Hardship: African Americans, Inequality, and the Politics is Resilience"
 
 ## Past Talks
 
