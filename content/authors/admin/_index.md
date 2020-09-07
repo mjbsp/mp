@@ -45,7 +45,7 @@ Sign up for the [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdqp5JwA
 
  - **October 20**: [Nura Sediqe](https://www.nurasediqe.com), "Ummah : The Effects of Community Responsibility on Muslim Political Behavior in the United States"
 
- - **October 27**: [Christine Slaughter](http://www.christinemslaughter.com), "No Strangers to Hardship: African Americans, Inequality, and the Politics is Resilience"
+ - **October 27**: [Christine Slaughter](http://www.christinemslaughter.com), "No Strangers to Hardship: African Americans, Inequality, and the Politics of Resilience"
 
 ## Past Talks
 
