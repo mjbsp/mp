@@ -47,6 +47,22 @@ Sign up for the [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdqp5JwA
 
  - **October 27**: [Christine Slaughter](http://www.christinemslaughter.com), "No Strangers to Hardship: African Americans, Inequality, and the Politics of Resilience"
 
+ - **November 3**: No talk. [US Election Day](https://www.theverge.com/2016/5/5/11592622/this-is-fine-meme-comic). [Register to vote](https://www.vote.org). [Find your polling place](https://www.vote.org/polling-place-locator/).
+
+ - **November 10**: [Jangai Jap](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=529726c20e&e=522ac82111), Title to come
+
+ ## Fall/Winter 2020 series
+
+ - **November 17**: [Jasmine Smith](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=3382cc9451&e=522ac82111), [Jared Clemons](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=52bd0b7b79&e=522ac82111), [Arvind Krishnamurthy](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=7cf2a60eb3&e=522ac82111), [Miguel Martinez](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=64aac3c31b&e=522ac82111), [Leann McLaren](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=97cfcd44b3&e=522ac82111) and [Ismail White](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=e8c196e42a&e=522ac82111)
+
+ - **November 24**: TBD
+
+ - **December 1**: [Bethany Lacina](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=3255b6edf0&e=522ac82111)
+
+ - **December 8**: [Colin Wayne Leach](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=59307b6df2&e=522ac82111)
+
+ - **December 15**: [Ryan Bell](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=6a9a93be80&e=522ac82111), [Gabriel Borelli](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=d89c24faf2&e=522ac82111), [Rafaela Dancygier](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=aa5635262f&e=522ac82111) and [Dan Hopkins](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=dd97a96f45&e=522ac82111)
+
 ## Past Talks
 
  - **June 4**: [Adam Bonica](https://web.stanford.edu/~bonica/), [Jake Grumbach](https://www.polisci.washington.edu/people/jake-grumbach), [Charlotte Hill](https://charlottelhill.com/), and [Hakeem Jefferson](https://politicalscience.stanford.edu/people/hakeem-j-jefferson), "All-Mail Voting Increases Turnout and Reduces Turnout Inequality" | [working paper](https://www.dropbox.com/s/8n4zjvgmytim1rv/Bonica_Grumbach_Hill_Jefferson_Mail_Voting.pdf?raw=1) | [video](https://www.dropbox.com/s/iq8sofur9cqm3nc/Grumback%20Jefferson%20MPOSS%20Zoom%20-%20June%204.mp4?dl=0)
