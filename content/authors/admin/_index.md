@@ -53,7 +53,7 @@ Sign up for the [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdqp5JwA
 
  - **November 17**: [Jasmine Smith](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=3382cc9451&e=522ac82111), [Jared Clemons](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=52bd0b7b79&e=522ac82111), [Arvind Krishnamurthy](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=7cf2a60eb3&e=522ac82111), [Miguel Martinez](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=64aac3c31b&e=522ac82111), [Leann McLaren](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=97cfcd44b3&e=522ac82111) and [Ismail White](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=e8c196e42a&e=522ac82111)
 
- - **November 24**: TBD
+ - **November 24**: [Linda Tropp](https://www.umass.edu/pbs/people/linda-tropp)
 
  - **December 1**: [Bethany Lacina](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=3255b6edf0&e=522ac82111)
 
