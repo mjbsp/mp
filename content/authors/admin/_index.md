@@ -35,8 +35,6 @@ Sign up for the [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdqp5JwA
 
 ## Upcoming Job Market MPOSS (Tuesdays at 9 am PST, 12p EST, and 6p CET)
 
- - **September 29**: [(Max) Hui Bai](https://www.maxhuibai.com/about.html), “When racism and sexism benefit Black and female politicians: Politicians’ ideology moderates prejudice’s effect more than politicians’ demographic background"
-
  - **October 6:** [Thekla Morgenroth](http://psychology.exeter.ac.uk/staff/profile/index.php?web_id=Thekla_Morgenroth), “Group-based inequity: How and why do people defend social categories and hierarchies?”
 
  - **October 13**: [Nicole Audette](https://www.forcierconsulting.com), [Jeremy Horowitz](https://sites.dartmouth.edu/jhorowitz/) and [Kristin Michelitch](https://sites.google.com/site/kristinmichelitch/home?authuser=0), "Personal Narratives Reduce Negative Attitudes toward Refugees and Immigrant Outgroups: Evidence from Kenya"
@@ -92,5 +90,7 @@ Sign up for the [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdqp5JwA
 - **September 3**: Book editor’s roundtable with representatives from Oxford University Press, Cambridge University Press, New York University Press, Columbia University Press, and Temple University Press | [Video](https://www.dropbox.com/s/555702xi0fqmf70/zoom_1.mp4?dl=0)
 
  - **September 22**: [Roman Hlatky](https://romanhlatky.com/index.html), "EU Influence, Identity Politics, and Nationalist Vote Choice: Experimental Evidence from Slovakia" | [Video](https://www.dropbox.com/s/vytapi8hbsk5ddg/zoom_1.mp4?dl=0)
+
+  - **September 29**: [(Max) Hui Bai](https://www.maxhuibai.com/about.html), “When racism and sexism benefit Black and female politicians: Politicians’ ideology moderates prejudice’s effect more than politicians’ demographic background" | [Slides](https://docs.google.com/presentation/d/1P1q77y3cWYKyinlEjInr_uMv4ubWqUM5mIB7lUoIPyU/edit#slide=id.g56b5bfff2a_0_235) | [Video](https://www.dropbox.com/s/uudutfmq6n5ps2j/zoom_1.mp4?dl=0)
 
 **Organizers**: [Ana Bracic](https://www.anabracic.com/), [Mark Brandt](https://tbslaboratory.com/), [Nazita Lajevardi](http://www.nazitalajevardi.com/)
