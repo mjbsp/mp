@@ -57,7 +57,7 @@ Sign up for the [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdqp5JwA
 
 ## Past Talks
 
- - **October 13**: [Nicole Audette](https://www.forcierconsulting.com), [Jeremy Horowitz](https://sites.dartmouth.edu/jhorowitz/) and [Kristin Michelitch](https://sites.google.com/site/kristinmichelitch/home?authuser=0), "Personal Narratives Reduce Negative Attitudes toward Refugees and Immigrant Outgroups: Evidence from Kenya" 
+ - **October 13**: [Nicole Audette](https://www.forcierconsulting.com), [Jeremy Horowitz](https://sites.dartmouth.edu/jhorowitz/) and [Kristin Michelitch](https://sites.google.com/site/kristinmichelitch/home?authuser=0), "Personal Narratives Reduce Negative Attitudes toward Refugees and Immigrant Outgroups: Evidence from Kenya" | [Video](https://www.dropbox.com/s/b23un1gq8b032ez/zoom_0.mp4?dl=0)
 
 - **October 6:** [Thekla Morgenroth](http://psychology.exeter.ac.uk/staff/profile/index.php?web_id=Thekla_Morgenroth), “Group-based inequity: How and why do people defend social categories and hierarchies?” | [Slides](https://www.dropbox.com/s/ouwywjkhh1g0085/MPOSS%20talk.pptx?dl=0) | [Video](https://www.dropbox.com/s/g2wkygg68e5a440/zoom_1.mp4?dl=0)
 
