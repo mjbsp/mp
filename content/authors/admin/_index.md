@@ -35,8 +35,6 @@ Sign up for the [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdqp5JwA
 
 ## Upcoming Job Market MPOSS (Tuesdays at 9 am PST, 12p EST, and 6p CET)
 
- - **October 13**: [Nicole Audette](https://www.forcierconsulting.com), [Jeremy Horowitz](https://sites.dartmouth.edu/jhorowitz/) and [Kristin Michelitch](https://sites.google.com/site/kristinmichelitch/home?authuser=0), "Personal Narratives Reduce Negative Attitudes toward Refugees and Immigrant Outgroups: Evidence from Kenya"
-
  - **October 20**: [Nura Sediqe](https://www.nurasediqe.com), "Ummah : The Effects of Community Responsibility on Muslim Political Behavior in the United States"
 
  - **October 27**: [Christine Slaughter](http://www.christinemslaughter.com), "No Strangers to Hardship: African Americans, Inequality, and the Politics of Resilience"
@@ -58,6 +56,8 @@ Sign up for the [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdqp5JwA
  - **December 15**: [Ryan Bell](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=6a9a93be80&e=522ac82111), [Gabriel Borelli](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=d89c24faf2&e=522ac82111), [Rafaela Dancygier](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=aa5635262f&e=522ac82111) and [Dan Hopkins](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=dd97a96f45&e=522ac82111)
 
 ## Past Talks
+
+ - **October 13**: [Nicole Audette](https://www.forcierconsulting.com), [Jeremy Horowitz](https://sites.dartmouth.edu/jhorowitz/) and [Kristin Michelitch](https://sites.google.com/site/kristinmichelitch/home?authuser=0), "Personal Narratives Reduce Negative Attitudes toward Refugees and Immigrant Outgroups: Evidence from Kenya" 
 
 - **October 6:** [Thekla Morgenroth](http://psychology.exeter.ac.uk/staff/profile/index.php?web_id=Thekla_Morgenroth), “Group-based inequity: How and why do people defend social categories and hierarchies?” | [Slides](https://www.dropbox.com/s/ouwywjkhh1g0085/MPOSS%20talk.pptx?dl=0) | [Video](https://www.dropbox.com/s/g2wkygg68e5a440/zoom_1.mp4?dl=0)
 
