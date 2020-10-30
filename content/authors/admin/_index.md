@@ -45,11 +45,11 @@ Sign up for the [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdqp5JwA
 
  - **November 24**: [Linda Tropp](https://www.umass.edu/pbs/people/linda-tropp)
 
- - **December 1**: [Bethany Lacina](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=3255b6edf0&e=522ac82111)
+ - **December 1**: [Bethany Lacina](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=3255b6edf0&e=522ac82111), "National anthem protests and whites’ views of black NFL players"
 
  - **December 8**: [Colin Wayne Leach](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=59307b6df2&e=522ac82111), "How do (Black Lives Matter) psychologically? Cognition and Emotion of Engagement and Indifference"
 
- - **December 15**: [Ryan Bell](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=6a9a93be80&e=522ac82111), [Gabriel Borelli](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=d89c24faf2&e=522ac82111), [Rafaela Dancygier](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=aa5635262f&e=522ac82111) and [Dan Hopkins](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=dd97a96f45&e=522ac82111)
+ - **December 15**: [Ryan Bell](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=6a9a93be80&e=522ac82111), [Gabriel Borelli](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=d89c24faf2&e=522ac82111), [Rafaela Dancygier](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=aa5635262f&e=522ac82111) and [Dan Hopkins](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=dd97a96f45&e=522ac82111), "Differently Divisive: Sexism, Racism, and Support for Candidates with Incongruent Positions"
 
 ## Past Talks
 
