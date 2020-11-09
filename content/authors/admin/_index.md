@@ -35,8 +35,6 @@ Sign up for the [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdqp5JwA
 
 ## Upcoming Job Market MPOSS (Tuesdays at 9 am PST, 12p EST, and 6p CET)
 
- - **November 3**: No talk. [US Election Day](https://www.theverge.com/2016/5/5/11592622/this-is-fine-meme-comic). [Register to vote](https://www.vote.org). [Find your polling place](https://www.vote.org/polling-place-locator/).
-
  - **November 10**: [Jangai Jap](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=529726c20e&e=522ac82111), "Can Encounters with the State Build Unity in Multiethnic States? Survey Evidence from Myanmar"
 
  ## Fall/Winter 2020 series
