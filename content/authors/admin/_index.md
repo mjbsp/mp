@@ -33,9 +33,7 @@ Talks are at 9 am PST, 12p EST, and 6p CET. They are 1 hour long, with a 40-45 m
 
 Sign up for the [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdqp5JwANqiZNKUmm1avmkbj9-E_pRl5mGVC8esfG3dtaiHKw/viewform) to receive the Zoom invitation and keep updated! Zoom invitations are sent approximately 24 hours before the start of the seminar. If you've signed up, but don't receive an invitation check the depths of your SPAM folder.
 
-## Upcoming Job Market MPOSS (Tuesdays at 9 am PST, 12p EST, and 6p CET)
-
- ## Fall/Winter 2020 series
+## Fall/Winter 2020 series
 
  - **November 17**: [Jasmine Smith](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=3382cc9451&e=522ac82111), [Jared Clemons](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=52bd0b7b79&e=522ac82111), [Arvind Krishnamurthy](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=7cf2a60eb3&e=522ac82111), [Miguel Martinez](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=64aac3c31b&e=522ac82111), [Leann McLaren](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=97cfcd44b3&e=522ac82111) and [Ismail White](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=e8c196e42a&e=522ac82111), "Willing but Unable: Reassessing the Effects of Racial Group Consciousness on Black Political Participation"
 
