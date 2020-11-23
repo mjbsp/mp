@@ -43,6 +43,15 @@ Sign up for the [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdqp5JwA
 
  - **December 15**: [Ryan Bell](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=6a9a93be80&e=522ac82111), [Gabriel Borelli](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=d89c24faf2&e=522ac82111), [Rafaela Dancygier](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=aa5635262f&e=522ac82111) and [Dan Hopkins](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=dd97a96f45&e=522ac82111), "Differently Divisive: Sexism, Racism, and Support for Candidates with Incongruent Positions"
 
+## Winter/Spring 2021 series
+
+ - **February 16**: [Flavio Azevedo](http://flavioazevedo.com)
+ - **February 23**: [Candis Watts Smith](https://www.candiswsmith.com)
+ - **March 2**: [Betsy Levy Paluck](http://www.betsylevypaluck.com)
+ - **March 9**: [Dilan Okcuoglu](https://www.american.edu/sis/faculty/okcuoglu.cfm)
+ - **March 16**: [Bhumi Purohit](https://bhumipurohit.com)
+ - **March 23**: [Davin Phoenix](https://davinphoenixphd.com)
+
 ## Past Talks
 
  - **November 17**: [Jasmine Smith](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=3382cc9451&e=522ac82111), [Jared Clemons](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=52bd0b7b79&e=522ac82111), [Arvind Krishnamurthy](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=7cf2a60eb3&e=522ac82111), [Miguel Martinez](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=64aac3c31b&e=522ac82111), [Leann McLaren](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=97cfcd44b3&e=522ac82111) and [Ismail White](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=e8c196e42a&e=522ac82111), "Willing but Unable: Reassessing the Effects of Racial Group Consciousness on Black Political Participation"
