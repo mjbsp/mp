@@ -35,8 +35,6 @@ Sign up for the [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdqp5JwA
 
 ## Fall/Winter 2020 series
 
- - **December 1**: [Bethany Lacina](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=3255b6edf0&e=522ac82111), "National anthem protests and whites’ views of black NFL players"
-
  - **December 8**: [Colin Wayne Leach](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=59307b6df2&e=522ac82111), "How do (Black Lives Matter) psychologically? Cognition and Emotion of Engagement and Indifference"
 
  - **December 15**: [Ryan Bell](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=6a9a93be80&e=522ac82111), [Gabriel Borelli](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=d89c24faf2&e=522ac82111), [Rafaela Dancygier](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=aa5635262f&e=522ac82111) and [Dan Hopkins](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=dd97a96f45&e=522ac82111), "Differently Divisive: Sexism, Racism, and Support for Candidates with Incongruent Positions"
@@ -52,8 +50,10 @@ Sign up for the [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdqp5JwA
 
 ## Past Talks
 
+ - **December 1**: [Bethany Lacina](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=3255b6edf0&e=522ac82111), "National anthem protests and whites’ views of black NFL players" | [Video](https://www.dropbox.com/s/tg02lq7ugvvte7t/zoom_1.mp4?dl=0)
+
  - **November 24**: [Linda Tropp](https://www.umass.edu/pbs/people/linda-tropp), [Trisha Dehrone](https://www.umass.edu/pbs/people/trisha-dehrone), and [Eric D. Knowles](https://wp.nyu.edu/knowleslab/), "Empathy and Indifference: Dimensions of moral concern as predictors of group-based policy attitudes"
- 
+
  - **November 17**: [Jasmine Smith](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=3382cc9451&e=522ac82111), [Jared Clemons](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=52bd0b7b79&e=522ac82111), [Arvind Krishnamurthy](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=7cf2a60eb3&e=522ac82111), [Miguel Martinez](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=64aac3c31b&e=522ac82111), [Leann McLaren](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=97cfcd44b3&e=522ac82111) and [Ismail White](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=e8c196e42a&e=522ac82111), "Willing but Unable: Reassessing the Effects of Racial Group Consciousness on Black Political Participation"
 
  - **November 10**: [Jangai Jap](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=529726c20e&e=522ac82111), "Can Encounters with the State Build Unity in Multiethnic States? Survey Evidence from Myanmar" | [Video](https://www.dropbox.com/s/xy6fjk5m0qb5xj6/zoom_1.mp4?dl=0)
