@@ -35,8 +35,6 @@ Sign up for the [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdqp5JwA
 
 ## Fall/Winter 2020 series
 
- - **December 8**: [Colin Wayne Leach](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=59307b6df2&e=522ac82111), "How do Black Lives Matter (psychologically)? Cognition and Emotion of Engagement and Indifference"
-
  - **December 15**: [Ryan Bell](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=6a9a93be80&e=522ac82111), [Gabriel Borelli](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=d89c24faf2&e=522ac82111), [Rafaela Dancygier](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=aa5635262f&e=522ac82111) and [Dan Hopkins](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=dd97a96f45&e=522ac82111), "Differently Divisive: Sexism, Racism, and Support for Candidates with Incongruent Positions"
 
 ## Winter/Spring 2021 series
@@ -49,6 +47,8 @@ Sign up for the [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdqp5JwA
  - **March 23**: [Davin Phoenix](https://davinphoenixphd.com)
 
 ## Past Talks
+
+ - **December 8**: [Colin Wayne Leach](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=59307b6df2&e=522ac82111), "How do Black Lives Matter (psychologically)? Cognition and Emotion of Engagement and Indifference" | [Video](https://www.dropbox.com/s/9in4spojizgoefz/zoom_0.mp4?dl=0) | [Papers](https://www.dropbox.com/sh/mnicz1854yrp02q/AAC1u0Wg1bffk00KlMSHX7yCa?dl=0)
 
  - **December 1**: [Bethany Lacina](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=3255b6edf0&e=522ac82111), "National anthem protests and whites’ views of black NFL players" | [Video](https://www.dropbox.com/s/tg02lq7ugvvte7t/zoom_1.mp4?dl=0)
 
