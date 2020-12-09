@@ -48,7 +48,7 @@ Sign up for the [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdqp5JwA
 
 ## Past Talks
 
- - **December 8**: [Colin Wayne Leach](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=59307b6df2&e=522ac82111), "How do Black Lives Matter (psychologically)? Cognition and Emotion of Engagement and Indifference" | [Video](https://www.dropbox.com/s/9in4spojizgoefz/zoom_0.mp4?dl=0) | [Papers](https://www.dropbox.com/sh/mnicz1854yrp02q/AAC1u0Wg1bffk00KlMSHX7yCa?dl=0)
+ - **December 8**: [Colin Wayne Leach](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=59307b6df2&e=522ac82111), "How do Black Lives Matter (psychologically)? Cognition and Emotion of Engagement and Indifference" | [Video](https://www.dropbox.com/s/9in4spojizgoefz/zoom_0.mp4?dl=0) | [Slides](https://www.dropbox.com/s/2mp1w0vse4291xc/Leach-MPOSS2020.pptx?dl=0) | [Papers](https://www.dropbox.com/sh/mnicz1854yrp02q/AAC1u0Wg1bffk00KlMSHX7yCa?dl=0)
 
  - **December 1**: [Bethany Lacina](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=3255b6edf0&e=522ac82111), "National anthem protests and whites’ views of black NFL players" | [Video](https://www.dropbox.com/s/tg02lq7ugvvte7t/zoom_1.mp4?dl=0)
 
