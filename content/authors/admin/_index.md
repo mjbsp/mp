@@ -35,12 +35,12 @@ Sign up for the [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdqp5JwA
 
 ## Winter/Spring 2021 series
 
- - **February 16**: [Flavio Azevedo](http://flavioazevedo.com)
- - **February 23**: [Candis Watts Smith](https://www.candiswsmith.com)
- - **March 2**: [Betsy Levy Paluck](http://www.betsylevypaluck.com)
- - **March 9**: [Dilan Okcuoglu](https://www.american.edu/sis/faculty/okcuoglu.cfm)
- - **March 16**: [Bhumi Purohit](https://bhumipurohit.com)
- - **March 23**: [Davin Phoenix](https://davinphoenixphd.com)
+ - **February 16**: [Flavio Azevedo](http://flavioazevedo.com), "Measuring ideology: current practices, its consequences, and recommendations"
+ - **February 23**: [Candis Watts Smith](https://www.candiswsmith.com), "Assessing the Relationship between Policy and Social Constructions in the US States"
+ - **March 2**: [Betsy Levy Paluck](http://www.betsylevypaluck.com), "Prejudice Reduction: Progress and Challenges"
+ - **March 9**: [Dilan Okcuoglu](https://www.american.edu/sis/faculty/okcuoglu.cfm), "Demographic Control in Practice: Everyday Politics of Land and Property Relations in Turkey's Kurdistan"
+ - **March 16**: [Bhumi Purohit](https://bhumipurohit.com), "Downstream Effects of Bureaucratic Discrimination: Evidence from India"
+ - **March 23**: [Davin Phoenix](https://davinphoenixphd.com), "The Message has Meaning: Affective Cues in Black Panther Discourses of Resistance and Solidarity"
 
 ## Past Talks
 
