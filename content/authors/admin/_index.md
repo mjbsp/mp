@@ -35,7 +35,7 @@ Sign up for the [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdqp5JwA
 
 ## Winter/Spring 2021 series
 
- - **February 16**: [Flavio Azevedo](http://flavioazevedo.com), "Measuring ideology: current practices, its consequences, and recommendations"
+ - **February 16**: [Flavio Azevedo](http://flavioazevedo.com), "Measuring ideology: Current practices, its consequences, and recommendations"
  - **February 23**: [Candis Watts Smith](https://www.candiswsmith.com), "Assessing the Relationship between Policy and Social Constructions in the US States"
  - **March 2**: [Betsy Levy Paluck](http://www.betsylevypaluck.com), "Prejudice Reduction: Progress and Challenges"
  - **March 9**: [Dilan Okcuoglu](https://www.american.edu/sis/faculty/okcuoglu.cfm), "Demographic Control in Practice: Everyday Politics of Land and Property Relations in Turkey's Kurdistan"
