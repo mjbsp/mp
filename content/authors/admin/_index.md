@@ -44,56 +44,54 @@ Sign up for the [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdqp5JwA
 
 ## Past Talks
 
- - **December 15**: [Ryan Bell](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=6a9a93be80&e=522ac82111), [Gabriel Borelli](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=d89c24faf2&e=522ac82111), [Rafaela Dancygier](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=aa5635262f&e=522ac82111) and [Dan Hopkins](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=dd97a96f45&e=522ac82111), "Differently Divisive: Sexism, Racism, and Support for Candidates with Incongruent Positions" | [Video](https://www.dropbox.com/s/wx66naxn00qaudx/zoom_1.mp4?dl=0)
+ - **December 15**: [Ryan Bell](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=6a9a93be80&e=522ac82111), [Gabriel Borelli](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=d89c24faf2&e=522ac82111), [Rafaela Dancygier](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=aa5635262f&e=522ac82111) and [Dan Hopkins](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=dd97a96f45&e=522ac82111), "Differently Divisive: Sexism, Racism, and Support for Candidates with Incongruent Positions" | [Video](https://youtu.be/3L-t3hSbAk4)
 
- - **December 8**: [Colin Wayne Leach](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=59307b6df2&e=522ac82111), "How do Black Lives Matter (psychologically)? Cognition and Emotion of Engagement and Indifference" | [Video](https://www.dropbox.com/s/9in4spojizgoefz/zoom_0.mp4?dl=0) | [Slides](https://www.dropbox.com/s/2mp1w0vse4291xc/Leach-MPOSS2020.pptx?dl=0) | [Papers](https://www.dropbox.com/sh/mnicz1854yrp02q/AAC1u0Wg1bffk00KlMSHX7yCa?dl=0)
+ - **December 8**: [Colin Wayne Leach](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=59307b6df2&e=522ac82111), "How do Black Lives Matter (psychologically)? Cognition and Emotion of Engagement and Indifference" | [Video](https://youtu.be/2FfimXLQS48) | [Slides](https://www.dropbox.com/s/2mp1w0vse4291xc/Leach-MPOSS2020.pptx?dl=0) | [Papers](https://www.dropbox.com/sh/mnicz1854yrp02q/AAC1u0Wg1bffk00KlMSHX7yCa?dl=0)
 
- - **December 1**: [Bethany Lacina](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=3255b6edf0&e=522ac82111), "National anthem protests and whites’ views of black NFL players" | [Video](https://www.dropbox.com/s/tg02lq7ugvvte7t/zoom_1.mp4?dl=0)
+ - **December 1**: [Bethany Lacina](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=3255b6edf0&e=522ac82111), "National anthem protests and whites’ views of black NFL players" | [Video](https://youtu.be/tbsCGArLF9Y)
 
  - **November 24**: [Linda Tropp](https://www.umass.edu/pbs/people/linda-tropp), [Trisha Dehrone](https://www.umass.edu/pbs/people/trisha-dehrone), and [Eric D. Knowles](https://wp.nyu.edu/knowleslab/), "Empathy and Indifference: Dimensions of moral concern as predictors of group-based policy attitudes"
 
  - **November 17**: [Jasmine Smith](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=3382cc9451&e=522ac82111), [Jared Clemons](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=52bd0b7b79&e=522ac82111), [Arvind Krishnamurthy](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=7cf2a60eb3&e=522ac82111), [Miguel Martinez](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=64aac3c31b&e=522ac82111), [Leann McLaren](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=97cfcd44b3&e=522ac82111) and [Ismail White](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=e8c196e42a&e=522ac82111), "Willing but Unable: Reassessing the Effects of Racial Group Consciousness on Black Political Participation"
 
- - **November 10**: [Jangai Jap](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=529726c20e&e=522ac82111), "Can Encounters with the State Build Unity in Multiethnic States? Survey Evidence from Myanmar" | [Video](https://www.dropbox.com/s/xy6fjk5m0qb5xj6/zoom_1.mp4?dl=0)
+ - **November 10**: [Jangai Jap](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=529726c20e&e=522ac82111), "Can Encounters with the State Build Unity in Multiethnic States? Survey Evidence from Myanmar" | [Video](https://youtu.be/3gKPVNYIfsU)
 
- - **October 27**: [Christine Slaughter](http://www.christinemslaughter.com), "No Strangers to Hardship: African Americans, Inequality, and the Politics of Resilience" | [Video](https://www.dropbox.com/s/24yq87m9l7jvcri/zoom_1.mp4?dl=0)
+ - **October 27**: [Christine Slaughter](http://www.christinemslaughter.com), "No Strangers to Hardship: African Americans, Inequality, and the Politics of Resilience" | [Video](https://youtu.be/20mSvOXhMhE)
 
-- **October 20**: [Nura Sediqe](https://www.nurasediqe.com), "Ummah : The Effects of Community Responsibility on Muslim Political Behavior in the United States" | [Video](https://www.dropbox.com/s/i5wrouufykmyvts/zoom_1.mp4?dl=0)
+- **October 20**: [Nura Sediqe](https://www.nurasediqe.com), "Ummah : The Effects of Community Responsibility on Muslim Political Behavior in the United States" | [Video](https://youtu.be/MvoWFUWtXM0)
 
- - **October 13**: [Nicole Audette](https://www.forcierconsulting.com), [Jeremy Horowitz](https://sites.dartmouth.edu/jhorowitz/) and [Kristin Michelitch](https://sites.google.com/site/kristinmichelitch/home?authuser=0), "Personal Narratives Reduce Negative Attitudes toward Refugees and Immigrant Outgroups: Evidence from Kenya" | [Video](https://www.dropbox.com/s/rgw5o8w1qa9jojy/zoom_0_trimmed.mp4?dl=0)
+ - **October 13**: [Nicole Audette](https://www.forcierconsulting.com), [Jeremy Horowitz](https://sites.dartmouth.edu/jhorowitz/) and [Kristin Michelitch](https://sites.google.com/site/kristinmichelitch/home?authuser=0), "Personal Narratives Reduce Negative Attitudes toward Refugees and Immigrant Outgroups: Evidence from Kenya" | [Video](https://youtu.be/6haqjFBNnQ4)
 
-- **October 6:** [Thekla Morgenroth](http://psychology.exeter.ac.uk/staff/profile/index.php?web_id=Thekla_Morgenroth), “Group-based inequity: How and why do people defend social categories and hierarchies?” | [Slides](https://www.dropbox.com/s/ouwywjkhh1g0085/MPOSS%20talk.pptx?dl=0) | [Video](https://www.dropbox.com/s/g2wkygg68e5a440/zoom_1.mp4?dl=0)
+- **October 6:** [Thekla Morgenroth](http://psychology.exeter.ac.uk/staff/profile/index.php?web_id=Thekla_Morgenroth), “Group-based inequity: How and why do people defend social categories and hierarchies?” | [Slides](https://www.dropbox.com/s/ouwywjkhh1g0085/MPOSS%20talk.pptx?dl=0) | [Video](https://youtu.be/mja5M2ldP0k)
 
-- **September 29**: [(Max) Hui Bai](https://www.maxhuibai.com/about.html), “When racism and sexism benefit Black and female politicians: Politicians’ ideology moderates prejudice’s effect more than politicians’ demographic background" | [Slides](https://docs.google.com/presentation/d/1P1q77y3cWYKyinlEjInr_uMv4ubWqUM5mIB7lUoIPyU/edit#slide=id.g56b5bfff2a_0_235) | [Video](https://www.dropbox.com/s/uudutfmq6n5ps2j/zoom_1.mp4?dl=0)
+- **September 29**: [(Max) Hui Bai](https://www.maxhuibai.com/about.html), “When racism and sexism benefit Black and female politicians: Politicians’ ideology moderates prejudice’s effect more than politicians’ demographic background" | [Slides](https://docs.google.com/presentation/d/1P1q77y3cWYKyinlEjInr_uMv4ubWqUM5mIB7lUoIPyU/edit#slide=id.g56b5bfff2a_0_235) | [Video](https://youtu.be/DNwk6J-yXzE)
 
-- **September 22**: [Roman Hlatky](https://romanhlatky.com/index.html), "EU Influence, Identity Politics, and Nationalist Vote Choice: Experimental Evidence from Slovakia" | [Video](https://www.dropbox.com/s/vytapi8hbsk5ddg/zoom_1.mp4?dl=0)
+- **September 22**: [Roman Hlatky](https://romanhlatky.com/index.html), "EU Influence, Identity Politics, and Nationalist Vote Choice: Experimental Evidence from Slovakia" | [Video](https://youtu.be/Nn_R7RoqN9g)
 
-- **September 3**: Book editor’s roundtable with representatives from Oxford University Press, Cambridge University Press, New York University Press, Columbia University Press, and Temple University Press | [Video](https://www.dropbox.com/s/555702xi0fqmf70/zoom_1.mp4?dl=0)
+- **September 3**: Book editor’s roundtable with representatives from Oxford University Press, Cambridge University Press, New York University Press, Columbia University Press, and Temple University Press | [Video](https://youtu.be/XIjFKz_4a78)
 
 - **August 27**: [Yamil Velez](https://www.yamilrvelez.com/), [Angel Saavedra Cisneros](https://www.snc.edu/academics/faculty/angel.saavedracisneros.html), and [Jose Gomez](https://polisci.columbia.edu/content/jose-s-gomez), “Bridging The Language Gap: A New Measurement Approach for Multilingual Surveys”
 
 - **August 20**: [Princess Williams](https://lsa.umich.edu/polisci/people/graduate-students/princess-williams.html), “The Politics of Place: How Southern Identity Shapes Americans' Racial Attitudes & Policy Preferences” | [Slides](https://www.dropbox.com/s/mdgrt6fr882rwka/PHWilliams%20-%20MPOSS%20Presentation.pdf?dl=0)
 
-- **August 13**: [Stephanie Zonszein](https://stephaniezonszein.com/), “Turn On, Tune In, Turn Out: Ethnic Radio and Immigrants’ Political Engagement" | [video](https://www.dropbox.com/s/kpkpkyloul1kht8/zoom_1.mp4?dl=0)
+- **August 13**: [Stephanie Zonszein](https://stephaniezonszein.com/), “Turn On, Tune In, Turn Out: Ethnic Radio and Immigrants’ Political Engagement" | [video](https://youtu.be/FuRupGKHqc4)
 
 - **August 6**: [Nkemka Anyiwo](https://www.nkemkaanyiwo.com/), “We Gon’ Be Alright: Racism, Media, & the Sociopolitical Development of Black Youth”
 
-- **July 30**: [Calvin Lai](https://calvinklai.wordpress.com/), [Pierce D. Ekstrom](https://www.pierceekstrom.com/), [Joel M. Le Forestier](https://joelleforestier.com/), “Racial disparities in police traffic stops are associated with county-level racial prejudice” | [video](https://www.dropbox.com/s/0t6mjsxuw3tr083/zoom_1.mp4?dl=0)
+- **July 30**: [Calvin Lai](https://calvinklai.wordpress.com/), [Pierce D. Ekstrom](https://www.pierceekstrom.com/), [Joel M. Le Forestier](https://joelleforestier.com/), “Racial disparities in police traffic stops are associated with county-level racial prejudice” | [video](https://youtu.be/wOcT147jwDA)
 
-- **July 23**: [Adeline Lo](https://www.loadeline.com/), [Scott Williamson](https://www.scott-williamson.com/), [Claire Adida](https://claire.adida.net/), [Melina Platas](https://melinaplatas.com/), [Lauren Prather](https://gps.ucsd.edu/faculty-directory/lauren-prather.html), and [Seth Werfel](https://www.sethwerfel.net/), “Increasing Immigrant Inclusion: Family History, Empathy, and Immigration in the United States” | [video](https://www.dropbox.com/s/vtklhvw3s0kouk4/zoom_1.mp4?dl=0)
+- **July 23**: [Adeline Lo](https://www.loadeline.com/), [Scott Williamson](https://www.scott-williamson.com/), [Claire Adida](https://claire.adida.net/), [Melina Platas](https://melinaplatas.com/), [Lauren Prather](https://gps.ucsd.edu/faculty-directory/lauren-prather.html), and [Seth Werfel](https://www.sethwerfel.net/), “Increasing Immigrant Inclusion: Family History, Empathy, and Immigration in the United States” | [video](https://youtu.be/ZG_Ki5e-4-k)
 
-- **July 16th**: No seminar. [A break](https://youtu.be/GxZuq57_bYM)
-
-- **July 9**: [Salma Mousa](https://www.salmamousa.com/), “Contact in the Classroom: Can Virtual Exchanges Build Tolerance?” | [video](https://www.dropbox.com/s/i8usy814iw4s9hk/zoom_0.mp4?dl=0)
+- **July 9**: [Salma Mousa](https://www.salmamousa.com/), “Contact in the Classroom: Can Virtual Exchanges Build Tolerance?” | [video](https://youtu.be/erMfPxUBQdU)
 
 - **July 2**: [Mara Ostfeld](https://lsa.umich.edu/polisci/people/faculty/mara-cecilia-ostfeld.html) and [Nicole Yadon](https://sites.lsa.umich.edu/nicoleyadon/), "The Gravity of Color: Skin Color and Power in Contemporary American Politics"
 
-- **June 25**: [Prabin Khadka](http://prabinkhadka.com/), "Casualties of War and Radical Extremism: Experimental Evidence from Somalia" | [video](https://www.dropbox.com/s/veu8ytauycsh24n/zoom_1.mp4?dl=0)
+- **June 25**: [Prabin Khadka](http://prabinkhadka.com/), "Casualties of War and Radical Extremism: Experimental Evidence from Somalia" | [video](https://youtu.be/dO_Le5aVDQY)
 
-- **June 18**: [Maja Kutlaca](https://scholar.google.com/citations?user=Kv5-f2cAAAAJ&hl=en) and [Ruthie Pliskin](http://www.ruthiepliskin.com/), "Be mindful of your own bigotry! Confrontation of ideological intolerance and the implications for conflict resolution" | [video](https://www.dropbox.com/s/a07kuh8e0hxxajo/Maja%20Kutlaca.mp4?dl=0)
+- **June 18**: [Maja Kutlaca](https://scholar.google.com/citations?user=Kv5-f2cAAAAJ&hl=en) and [Ruthie Pliskin](http://www.ruthiepliskin.com/), "Be mindful of your own bigotry! Confrontation of ideological intolerance and the implications for conflict resolution" | [video](https://youtu.be/arxX94uw654)
 
-- **June 11**: [Sa-Kiera Hudson](http://www.sakierahudson.com/), [Mina Cikara](http://www.intergroupneurosciencelaboratory.com/), and [Jim Sidanius](https://scholar.harvard.edu/sidanius/home), "Preference for hierarchy is associated with apathetic and antipathic emotions and policies" | [video](https://www.dropbox.com/s/ax8pdcylz04qx6m/Sa-Kiera%20Hudson%20Talk.mp4?dl=0)
+- **June 11**: [Sa-Kiera Hudson](http://www.sakierahudson.com/), [Mina Cikara](http://www.intergroupneurosciencelaboratory.com/), and [Jim Sidanius](https://scholar.harvard.edu/sidanius/home), "Preference for hierarchy is associated with apathetic and antipathic emotions and policies" | [video](https://youtu.be/Jwm9-BPvHPk)
 
-- **June 4**: [Adam Bonica](https://web.stanford.edu/~bonica/), [Jake Grumbach](https://www.polisci.washington.edu/people/jake-grumbach), [Charlotte Hill](https://charlottelhill.com/), and [Hakeem Jefferson](https://politicalscience.stanford.edu/people/hakeem-j-jefferson), "All-Mail Voting Increases Turnout and Reduces Turnout Inequality" | [working paper](https://www.dropbox.com/s/8n4zjvgmytim1rv/Bonica_Grumbach_Hill_Jefferson_Mail_Voting.pdf?raw=1) | [video](https://www.dropbox.com/s/iq8sofur9cqm3nc/Grumback%20Jefferson%20MPOSS%20Zoom%20-%20June%204.mp4?dl=0)
+- **June 4**: [Adam Bonica](https://web.stanford.edu/~bonica/), [Jake Grumbach](https://www.polisci.washington.edu/people/jake-grumbach), [Charlotte Hill](https://charlottelhill.com/), and [Hakeem Jefferson](https://politicalscience.stanford.edu/people/hakeem-j-jefferson), "All-Mail Voting Increases Turnout and Reduces Turnout Inequality" | [working paper](https://www.dropbox.com/s/8n4zjvgmytim1rv/Bonica_Grumbach_Hill_Jefferson_Mail_Voting.pdf?raw=1) | [video](https://youtu.be/pd9FJz5nfIY)
 
 **Organizers**: [Ana Bracic](https://www.anabracic.com/), [Mark Brandt](https://tbslaboratory.com/), [Nazita Lajevardi](http://www.nazitalajevardi.com/)
