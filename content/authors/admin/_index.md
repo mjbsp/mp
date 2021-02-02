@@ -33,7 +33,7 @@ Talks are at 9 am PST, 12p EST, and 6p CET. They are 1 hour long, with a 40-45 m
 
 Sign up for the [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdqp5JwANqiZNKUmm1avmkbj9-E_pRl5mGVC8esfG3dtaiHKw/viewform) to receive the Zoom invitation and keep updated! Zoom invitations are sent approximately 24 hours before the start of the seminar. If you've signed up, but don't receive an invitation check the depths of your SPAM folder.
 
-## Winter/Spring 2021 series
+## Winter/Spring 2021 Series
 
  - **February 16**: [Flavio Azevedo](http://flavioazevedo.com), "Measuring ideology: Current practices, its consequences, and recommendations"
  - **February 23**: [Candis Watts Smith](https://www.candiswsmith.com), "Assessing the Relationship between Policy and Social Constructions in the US States"
@@ -41,6 +41,16 @@ Sign up for the [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdqp5JwA
  - **March 9**: [Dilan Okcuoglu](https://www.american.edu/sis/faculty/okcuoglu.cfm), "Demographic Control in Practice: Everyday Politics of Land and Property Relations in Turkey's Kurdistan"
  - **March 16**: [Bhumi Purohit](https://bhumipurohit.com), "Downstream Effects of Bureaucratic Discrimination: Evidence from India"
  - **March 23**: [Davin Phoenix](https://davinphoenixphd.com), "The Message has Meaning: Affective Cues in Black Panther Discourses of Resistance and Solidarity"
+
+## Spring 2021 series
+
+- **April 27**: [Johanna Birnir](https://gvpt.umd.edu/facultyprofile/birnir/jóhanna)
+- **May 4**: [Vicky Fouka](https://vfouka.people.stanford.edu), [Marco Tabellini](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1060330), & [Mina Cikara](https://psychology.fas.harvard.edu/people/mina-cikara)
+- **May 11**: Special panel on China’s war on Uyghurs with [Kuzzat Altay](https://twitter.com/KuzzatAltay) (President Uyghur American Association), [Rushan Abbas](https://twitter.com/RushanAbbas) (President Campaign for Uyghurs), [Arslan Hidayat](https://twitter.com/arslan_hidayat) (General Secretary of Uyghur Revival Association), and [Sean Roberts](https://twitter.com/robertsreport) (George Washington University, Author of "The War on Uyghurs") 
+- **May 18**: [Efrén O. Pérez](Efrén O. Pérez)
+- **May 25**: [Yoshiko Herrera](https://polisci.wisc.edu/staff/yoshiko-m-herrera/)
+- **June 1**: [LaFleur Stephens-Dougan](https://politics.princeton.edu/people/lafleur-stephens-dougan)
+- **June 8**: [Julian Rucker](https://scholar.google.com/citations?user=JgQuyUsAAAAJ&hl=en)
 
 ## Past Talks
 
