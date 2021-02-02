@@ -46,8 +46,8 @@ Sign up for the [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdqp5JwA
 
 - **April 27**: [Johanna Birnir](https://gvpt.umd.edu/facultyprofile/birnir/jóhanna)
 - **May 4**: [Vicky Fouka](https://vfouka.people.stanford.edu), [Marco Tabellini](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1060330), & [Mina Cikara](https://psychology.fas.harvard.edu/people/mina-cikara)
-- **May 11**: Special panel on China’s war on Uyghurs with [Kuzzat Altay](https://twitter.com/KuzzatAltay) (President Uyghur American Association), [Rushan Abbas](https://twitter.com/RushanAbbas) (President Campaign for Uyghurs), [Arslan Hidayat](https://twitter.com/arslan_hidayat) (General Secretary of Uyghur Revival Association), and [Sean Roberts](https://twitter.com/robertsreport) (George Washington University, Author of "The War on Uyghurs") 
-- **May 18**: [Efrén O. Pérez](Efrén O. Pérez)
+- **May 11**: Special panel on China’s war on Uyghurs with [Kuzzat Altay](https://twitter.com/KuzzatAltay) (President Uyghur American Association), [Rushan Abbas](https://twitter.com/RushanAbbas) (President Campaign for Uyghurs), [Arslan Hidayat](https://twitter.com/arslan_hidayat) (General Secretary of Uyghur Revival Association), and [Sean Roberts](https://twitter.com/robertsreport) (George Washington University, Author of "The War on Uyghurs")
+- **May 18**: [Efrén O. Pérez](https://eoperez.com)
 - **May 25**: [Yoshiko Herrera](https://polisci.wisc.edu/staff/yoshiko-m-herrera/)
 - **June 1**: [LaFleur Stephens-Dougan](https://politics.princeton.edu/people/lafleur-stephens-dougan)
 - **June 8**: [Julian Rucker](https://scholar.google.com/citations?user=JgQuyUsAAAAJ&hl=en)
