@@ -42,7 +42,7 @@ Sign up for the [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdqp5JwA
  - **March 16**: [Bhumi Purohit](https://bhumipurohit.com), "Downstream Effects of Bureaucratic Discrimination: Evidence from India"
  - **March 23**: [Davin Phoenix](https://davinphoenixphd.com), "The Message has Meaning: Affective Cues in Black Panther Discourses of Resistance and Solidarity"
 
-## Spring 2021 series
+## Spring 2021 Series
 
 - **April 27**: [Jóhanna Birnir](https://gvpt.umd.edu/facultyprofile/birnir/jóhanna)
 - **May 4**: [Vicky Fouka](https://vfouka.people.stanford.edu), [Marco Tabellini](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1060330), & [Mina Cikara](https://psychology.fas.harvard.edu/people/mina-cikara)
