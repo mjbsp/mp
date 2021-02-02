@@ -33,7 +33,7 @@ Talks are at 9 am PST, 12p EST, and 6p CET. They are 1 hour long, with a 40-45 m
 
 Sign up for the [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdqp5JwANqiZNKUmm1avmkbj9-E_pRl5mGVC8esfG3dtaiHKw/viewform) to receive the Zoom invitation and keep updated! Zoom invitations are sent approximately 24 hours before the start of the seminar. If you've signed up, but don't receive an invitation check the depths of your SPAM folder.
 
-## Winter/Spring 2021 Series
+## Winter 2021 Series
 
  - **February 16**: [Flavio Azevedo](http://flavioazevedo.com), "Measuring ideology: Current practices, its consequences, and recommendations"
  - **February 23**: [Candis Watts Smith](https://www.candiswsmith.com), "Assessing the Relationship between Policy and Social Constructions in the US States"
@@ -46,7 +46,7 @@ Sign up for the [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdqp5JwA
 
 - **April 27**: [Johanna Birnir](https://gvpt.umd.edu/facultyprofile/birnir/jóhanna)
 - **May 4**: [Vicky Fouka](https://vfouka.people.stanford.edu), [Marco Tabellini](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1060330), & [Mina Cikara](https://psychology.fas.harvard.edu/people/mina-cikara)
-- **May 11**: Special panel on China’s war on Uyghurs with [Kuzzat Altay](https://twitter.com/KuzzatAltay) (President Uyghur American Association), [Rushan Abbas](https://twitter.com/RushanAbbas) (President Campaign for Uyghurs), [Arslan Hidayat](https://twitter.com/arslan_hidayat) (General Secretary of Uyghur Revival Association), and [Sean Roberts](https://twitter.com/robertsreport) (George Washington University, Author of "The War on Uyghurs")
+- **May 11**: *Special panel on China’s Uyghur Genocide* with [Kuzzat Altay](https://twitter.com/KuzzatAltay) (President Uyghur American Association), [Rushan Abbas](https://twitter.com/RushanAbbas) (President Campaign for Uyghurs), [Arslan Hidayat](https://twitter.com/arslan_hidayat) (General Secretary of Uyghur Revival Association), and [Sean Roberts](https://twitter.com/robertsreport) (George Washington University, Author of "The War on Uyghurs")
 - **May 18**: [Efrén O. Pérez](https://eoperez.com)
 - **May 25**: [Yoshiko Herrera](https://polisci.wisc.edu/staff/yoshiko-m-herrera/)
 - **June 1**: [LaFleur Stephens-Dougan](https://politics.princeton.edu/people/lafleur-stephens-dougan)
