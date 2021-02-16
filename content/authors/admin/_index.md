@@ -35,7 +35,6 @@ Sign up for the [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdqp5JwA
 
 ## Winter 2021 Series
 
- - **February 16**: [Flavio Azevedo](http://flavioazevedo.com), "Measuring ideology: Current practices, its consequences, and recommendations"
  - **February 23**: [Candis Watts Smith](https://www.candiswsmith.com), "Assessing the Relationship between Policy and Social Constructions in the US States"
  - **March 2**: [Betsy Levy Paluck](http://www.betsylevypaluck.com), "Prejudice Reduction: Progress and Challenges"
  - **March 9**: [Dilan Okcuoglu](https://www.american.edu/sis/faculty/okcuoglu.cfm), "Demographic Control in Practice: Everyday Politics of Land and Property Relations in Turkey's Kurdistan"
@@ -53,6 +52,8 @@ Sign up for the [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdqp5JwA
 - **June 8**: [Julian Rucker](https://scholar.google.com/citations?user=JgQuyUsAAAAJ&hl=en)
 
 ## Past Talks
+
+ - **February 16**: [Flavio Azevedo](http://flavioazevedo.com), "Measuring ideology: Current practices, its consequences, and recommendations" | (Video)[https://youtu.be/TIIGIUI3DGA]
 
  - **December 15**: [Ryan Bell](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=6a9a93be80&e=522ac82111), [Gabriel Borelli](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=d89c24faf2&e=522ac82111), [Rafaela Dancygier](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=aa5635262f&e=522ac82111) and [Dan Hopkins](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=dd97a96f45&e=522ac82111), "Differently Divisive: Sexism, Racism, and Support for Candidates with Incongruent Positions" | [Video](https://youtu.be/3L-t3hSbAk4)
 
