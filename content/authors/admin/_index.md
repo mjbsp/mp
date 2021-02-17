@@ -53,7 +53,7 @@ Sign up for the [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdqp5JwA
 
 ## Past Talks
 
- - **February 16**: [Flavio Azevedo](http://flavioazevedo.com), "Measuring ideology: Current practices, its consequences, and recommendations" | (Video)[https://youtu.be/TIIGIUI3DGA]
+ - **February 16**: [Flavio Azevedo](http://flavioazevedo.com), "Measuring ideology: Current practices, its consequences, and recommendations" | [Video](https://youtu.be/TIIGIUI3DGA]) | [PowerPoint](https://www.dropbox.com/s/7jpdz4xmsu8rz8f/2021.02.16%20MPOSS%20Talk%20-%20Measuring%20Ideology.pdf?dl=0)
 
  - **December 15**: [Ryan Bell](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=6a9a93be80&e=522ac82111), [Gabriel Borelli](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=d89c24faf2&e=522ac82111), [Rafaela Dancygier](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=aa5635262f&e=522ac82111) and [Dan Hopkins](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=dd97a96f45&e=522ac82111), "Differently Divisive: Sexism, Racism, and Support for Candidates with Incongruent Positions" | [Video](https://youtu.be/3L-t3hSbAk4)
 
