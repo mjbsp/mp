@@ -35,7 +35,6 @@ Sign up for the [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdqp5JwA
 
 ## Winter 2021 Series
 
- - **February 23**: [Candis Watts Smith](https://www.candiswsmith.com), "Assessing the Relationship between Policy and Social Constructions in the US States"
  - **March 2**: [Betsy Levy Paluck](http://www.betsylevypaluck.com), "Prejudice Reduction: Progress and Challenges"
  - **March 9**: [Dilan Okcuoglu](https://www.american.edu/sis/faculty/okcuoglu.cfm), "Demographic Control in Practice: Everyday Politics of Land and Property Relations in Turkey's Kurdistan"
  - **March 16**: [Bhumi Purohit](https://bhumipurohit.com), "Downstream Effects of Bureaucratic Discrimination: Evidence from India"
@@ -45,13 +44,15 @@ Sign up for the [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdqp5JwA
 
 - **April 27**: [Jóhanna Birnir](https://gvpt.umd.edu/facultyprofile/birnir/jóhanna)
 - **May 4**: [Vicky Fouka](https://vfouka.people.stanford.edu), [Marco Tabellini](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1060330), & [Mina Cikara](https://psychology.fas.harvard.edu/people/mina-cikara)
-- **May 11**: *Special panel on China’s Uyghur Genocide* with [Kuzzat Altay](https://twitter.com/KuzzatAltay) (President of the Uyghur American Association), [Rushan Abbas](https://twitter.com/RushanAbbas) (President of the Campaign for Uyghurs), [Arslan Hidayat](https://twitter.com/arslan_hidayat) (General Secretary of the Uyghur Revival Association), [Sean Roberts](https://twitter.com/robertsreport) (George Washington University, Author of "The War on Uyghurs"), and [Zumretay Arkin](https://twitter.com/ZumretErkin) (Program & Advocacy Manager at the Word Uyghur Congress)
+- **May 11**: *Special panel on China’s Uyghur Genocide* with [Kuzzat Altay](https://twitter.com/KuzzatAltay) (President of the Uyghur American Association), [Rushan Abbas](https://twitter.com/RushanAbbas) (President of the Campaign for Uyghurs), [Arslan Hidayat](https://twitter.com/arslan_hidayat) (General Secretary of the Uyghur Revival Association), [Sean Roberts](https://twitter.com/robertsreport) (George Washington University, Author of "The War on Uyghurs"), [Zumretay Arkin](https://twitter.com/ZumretErkin) (Program & Advocacy Manager at the Word Uyghur Congress), and [Kate Cronin-Furman](@kcroninfurman) (UCL Department of Political Science)
 - **May 18**: [Efrén O. Pérez](https://eoperez.com)
 - **May 25**: [Yoshiko Herrera](https://polisci.wisc.edu/staff/yoshiko-m-herrera/)
 - **June 1**: [LaFleur Stephens-Dougan](https://politics.princeton.edu/people/lafleur-stephens-dougan)
 - **June 8**: [Julian Rucker](https://scholar.google.com/citations?user=JgQuyUsAAAAJ&hl=en)
 
 ## Past Talks
+
+ - **February 23**: [Candis Watts Smith](https://www.candiswsmith.com), "Assessing the Relationship between Policy and Social Constructions in the US States" | [Video](https://youtu.be/VUyG2XmN9jA)
 
  - **February 16**: [Flavio Azevedo](http://flavioazevedo.com), "Measuring ideology: Current practices, its consequences, and recommendations" | [Video](https://youtu.be/TIIGIUI3DGA]) | [PowerPoint](https://www.dropbox.com/s/7jpdz4xmsu8rz8f/2021.02.16%20MPOSS%20Talk%20-%20Measuring%20Ideology.pdf?dl=0)
 
