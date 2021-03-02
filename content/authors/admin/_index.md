@@ -35,7 +35,6 @@ Sign up for the [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdqp5JwA
 
 ## Winter 2021 Series
 
- - **March 2**: [Betsy Levy Paluck](http://www.betsylevypaluck.com), "Prejudice Reduction: Progress and Challenges"
  - **March 9**: [Dilan Okcuoglu](https://www.american.edu/sis/faculty/okcuoglu.cfm), "Demographic Control in Practice: Everyday Politics of Land and Property Relations in Turkey's Kurdistan"
  - **March 16**: [Bhumi Purohit](https://bhumipurohit.com), "Downstream Effects of Bureaucratic Discrimination: Evidence from India"
  - **March 23**: [Davin Phoenix](https://davinphoenixphd.com), "The Message has Meaning: Affective Cues in Black Panther Discourses of Resistance and Solidarity"
@@ -51,6 +50,8 @@ Sign up for the [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdqp5JwA
 - **June 8**: [Julian Rucker](https://scholar.google.com/citations?user=JgQuyUsAAAAJ&hl=en)
 
 ## Past Talks
+
+ - **March 2**: [Betsy Levy Paluck](http://www.betsylevypaluck.com), "Prejudice Reduction: Progress and Challenges" | [Video](https://youtu.be/zL62cby5LR8)
 
  - **February 23**: [Candis Watts Smith](https://www.candiswsmith.com), "Assessing the Relationship between Policy and Social Constructions in the US States" | [Video](https://youtu.be/VUyG2XmN9jA)
 
