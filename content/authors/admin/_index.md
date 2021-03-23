@@ -33,10 +33,6 @@ Talks are at 9 am PST, 12p EST, and 6p CET. They are 1 hour long, with a 40-45 m
 
 Sign up for the [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdqp5JwANqiZNKUmm1avmkbj9-E_pRl5mGVC8esfG3dtaiHKw/viewform) to receive the Zoom invitation and keep updated! Zoom invitations are sent approximately 24 hours before the start of the seminar. If you've signed up, but don't receive an invitation check the depths of your SPAM folder.
 
-## Winter 2021 Series
-
- - **March 23**: [Davin Phoenix](https://davinphoenixphd.com), "The Message has Meaning: Affective Cues in Black Panther Discourses of Resistance and Solidarity"
-
 ## Spring 2021 Series
 
 - **April 27**: [Jóhanna Birnir](https://gvpt.umd.edu/facultyprofile/birnir/jóhanna)
@@ -48,6 +44,8 @@ Sign up for the [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdqp5JwA
 - **June 8**: [Julian Rucker](https://scholar.google.com/citations?user=JgQuyUsAAAAJ&hl=en)
 
 ## Past Talks
+
+ - **March 23**: [Davin Phoenix](https://davinphoenixphd.com), "The Message has Meaning: Affective Cues in Black Panther Discourses of Resistance and Solidarity" | [Video](https://youtu.be/PVgzbjbhVRI)
 
 - **March 16**: [Bhumi Purohit](https://bhumipurohit.com), "Can Minority Politicians Get Work Done? Evidence of Implicit and Explicit Bias from Bureaucrats in India"
 
