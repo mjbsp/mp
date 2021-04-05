@@ -57,6 +57,8 @@ Sign up for the [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdqp5JwA
 
  - **February 16**: [Flavio Azevedo](http://flavioazevedo.com), "Measuring ideology: Current practices, its consequences, and recommendations" | [Video](https://youtu.be/TIIGIUI3DGA]) | [PowerPoint](https://www.dropbox.com/s/7jpdz4xmsu8rz8f/2021.02.16%20MPOSS%20Talk%20-%20Measuring%20Ideology.pdf?dl=0)
 
+### MPOSS2020
+
  - **December 15**: [Ryan Bell](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=6a9a93be80&e=522ac82111), [Gabriel Borelli](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=d89c24faf2&e=522ac82111), [Rafaela Dancygier](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=aa5635262f&e=522ac82111) and [Dan Hopkins](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=dd97a96f45&e=522ac82111), "Differently Divisive: Sexism, Racism, and Support for Candidates with Incongruent Positions" | [Video](https://youtu.be/3L-t3hSbAk4)
 
  - **December 8**: [Colin Wayne Leach](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=59307b6df2&e=522ac82111), "How do Black Lives Matter (psychologically)? Cognition and Emotion of Engagement and Indifference" | [Video](https://youtu.be/2FfimXLQS48) | [Slides](https://www.dropbox.com/s/2mp1w0vse4291xc/Leach-MPOSS2020.pptx?dl=0) | [Papers](https://www.dropbox.com/sh/mnicz1854yrp02q/AAC1u0Wg1bffk00KlMSHX7yCa?dl=0)
