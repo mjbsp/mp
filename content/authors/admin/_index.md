@@ -35,13 +35,19 @@ Sign up for the [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdqp5JwA
 
 ## Spring 2021 Series
 
-- **April 27**: [Jóhanna Birnir](https://gvpt.umd.edu/facultyprofile/birnir/jóhanna)
-- **May 4**: [Vicky Fouka](https://vfouka.people.stanford.edu), [Marco Tabellini](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1060330), & [Mina Cikara](https://psychology.fas.harvard.edu/people/mina-cikara)
+- **April 27**: [Jóhanna Birnir](https://gvpt.umd.edu/facultyprofile/birnir/jóhanna) & [Nil Satana](https://www.start.umd.edu/people/nil-satana), "Alternatives in Mobilization: Ethnicity, Religion and Political Contestation"
+
+- **May 4**: [Vicky Fouka](https://vfouka.people.stanford.edu), [Marco Tabellini](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1060330), & [Mina Cikara](https://psychology.fas.harvard.edu/people/mina-cikara), "Hate Crime Increases with Minoritized Group Rank"
+
 - **May 11**: *Special panel on China’s Uyghur Genocide* with [Kuzzat Altay](https://twitter.com/KuzzatAltay) (President of the Uyghur American Association), [Rushan Abbas](https://twitter.com/RushanAbbas) (President of the Campaign for Uyghurs), [Arslan Hidayat](https://twitter.com/arslan_hidayat) (General Secretary of the Uyghur Revival Association), [Sean Roberts](https://twitter.com/robertsreport) (George Washington University, Author of "The War on Uyghurs"), [Zumretay Arkin](https://twitter.com/ZumretErkin) (Program & Advocacy Manager at the Word Uyghur Congress), and [Kate Cronin-Furman](@kcroninfurman) (UCL Department of Political Science)
-- **May 18**: [Efrén O. Pérez](https://eoperez.com)
-- **May 25**: [Yoshiko Herrera](https://polisci.wisc.edu/staff/yoshiko-m-herrera/)
-- **June 1**: [LaFleur Stephens-Dougan](https://politics.princeton.edu/people/lafleur-stephens-dougan)
-- **June 8**: [Julian Rucker](https://scholar.google.com/citations?user=JgQuyUsAAAAJ&hl=en)
+
+- **May 18**: [Efrén O. Pérez](https://eoperez.com), [Bianca Vicuña](https://polisci.ucla.edu/person/bianca-vicuna/), & [Crystal Robertson](https://polisci.ucla.edu/person/crystal-denise-robertson/), "Prejudiced When Climbing Up or When Falling Down? Why (Some) People of Color Express Anti-Black Racism"
+
+- **May 25**: [Yoshiko Herrera](https://polisci.wisc.edu/staff/yoshiko-m-herrera/), "The Sunny Side of Essentialism: Race and jazz in contemporary Russia"
+
+- **June 1**: [LaFleur Stephens-Dougan](https://politics.princeton.edu/people/lafleur-stephens-dougan), "Backlash Effect?  White Americans’ Reactions to Racial Disparities in COVID-19"
+
+- **June 8**: [Julian Rucker](https://scholar.google.com/citations?user=JgQuyUsAAAAJ&hl=en), "Structurally Unjust: Lay Beliefs about Racism and Responses to Racial Inequality in Criminal Justice"
 
 ## Past Talks
 
