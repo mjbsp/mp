@@ -35,8 +35,6 @@ Sign up for the [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdqp5JwA
 
 ## Spring 2021 Series
 
-- **April 27**: [Jóhanna Birnir](https://gvpt.umd.edu/facultyprofile/birnir/jóhanna) & [Nil Satana](https://www.start.umd.edu/people/nil-satana), "Alternatives in Mobilization: Ethnicity, Religion and Political Contestation"
-
 - **May 4**: [Vicky Fouka](https://vfouka.people.stanford.edu), [Marco Tabellini](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1060330), & [Mina Cikara](https://psychology.fas.harvard.edu/people/mina-cikara), "Hate Crime Increases with Minoritized Group Rank"
 
 - **May 11**: *Special panel on China’s Uyghur Genocide* with [Kuzzat Altay](https://twitter.com/KuzzatAltay) (President of the Uyghur American Association), [Rushan Abbas](https://twitter.com/RushanAbbas) (President of the Campaign for Uyghurs), [Arslan Hidayat](https://twitter.com/arslan_hidayat) (General Secretary of the Uyghur Revival Association), [Sean Roberts](https://twitter.com/robertsreport) (George Washington University, Author of "The War on Uyghurs"), [Zumretay Arkin](https://twitter.com/ZumretErkin) (Program & Advocacy Manager at the Word Uyghur Congress), and [Kate Cronin-Furman](@kcroninfurman) (UCL Department of Political Science)
@@ -51,6 +49,8 @@ Sign up for the [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdqp5JwA
 
 ## Past Talks
 
+- **April 27**: [Jóhanna Birnir](https://gvpt.umd.edu/facultyprofile/birnir/jóhanna) & [Nil Satana](https://www.start.umd.edu/people/nil-satana), "Alternatives in Mobilization: Ethnicity, Religion and Political Contestation" | [Video](https://youtu.be/NkdOgErxyOk)
+
  - **March 23**: [Davin Phoenix](https://davinphoenixphd.com), "The Message has Meaning: Affective Cues in Black Panther Discourses of Resistance and Solidarity" | [Video](https://youtu.be/PVgzbjbhVRI)
 
 - **March 16**: [Bhumi Purohit](https://bhumipurohit.com), "Can Minority Politicians Get Work Done? Evidence of Implicit and Explicit Bias from Bureaucrats in India"
@@ -63,7 +63,7 @@ Sign up for the [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdqp5JwA
 
  - **February 16**: [Flavio Azevedo](http://flavioazevedo.com), "Measuring ideology: Current practices, its consequences, and recommendations" | [Video](https://youtu.be/TIIGIUI3DGA]) | [PowerPoint](https://www.dropbox.com/s/7jpdz4xmsu8rz8f/2021.02.16%20MPOSS%20Talk%20-%20Measuring%20Ideology.pdf?dl=0)
 
-### MPOSS2020
+### MPOSS 2020
 
  - **December 15**: [Ryan Bell](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=6a9a93be80&e=522ac82111), [Gabriel Borelli](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=d89c24faf2&e=522ac82111), [Rafaela Dancygier](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=aa5635262f&e=522ac82111) and [Dan Hopkins](https://app.us18.list-manage.com/track/click?u=165af4e6b9cb769ee638e59d5&id=dd97a96f45&e=522ac82111), "Differently Divisive: Sexism, Racism, and Support for Candidates with Incongruent Positions" | [Video](https://youtu.be/3L-t3hSbAk4)
 
