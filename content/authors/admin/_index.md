@@ -27,6 +27,8 @@ bio: MPOSS is a Zoom seminar series on minority politics in comparative politics
 
 ---
 
+*[Submit questions for May 11th's Special panel on China’s Uyghur Genocide](https://docs.google.com/forms/d/e/1FAIpQLSd0-F8ELSgi6QeLT4XmOUSEXSIkMV9QQo1Xx6b5Hjyv6FSucg/viewform)*
+
 MPOSS is a Zoom seminar series on minority politics in comparative politics, American politics, and political psychology. We take a broad perspective on what kind of research falls within the scope of Minority Politics. Social scientists have long been involved in studying the ways that groups define themselves according to national origin, ethnicity, religion, race, caste, tribe, region, gender, and/or class markers. All of those who are interested in learning more about groups, defined alongside these dynamic lines, will find a home in this seminar series.
 
 Talks are at 9 am PST, 12p EST, and 6p CET. They are 1 hour long, with a 40-45 minute zoom presentation and a 15 minute question and answer session. We aim to bring together interested folks from different regions, continents, and subfields to participate in these workshops. ALL are welcome!
@@ -37,7 +39,7 @@ Sign up for the [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdqp5JwA
 
 - **May 4**: [Vicky Fouka](https://vfouka.people.stanford.edu), [Marco Tabellini](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1060330), & [Mina Cikara](https://psychology.fas.harvard.edu/people/mina-cikara), "Hate Crime Increases with Minoritized Group Rank"
 
-- **May 11**: *Special panel on China’s Uyghur Genocide* with [Kuzzat Altay](https://twitter.com/KuzzatAltay) (President of the Uyghur American Association), [Rushan Abbas](https://twitter.com/RushanAbbas) (President of the Campaign for Uyghurs), [Arslan Hidayat](https://twitter.com/arslan_hidayat) (General Secretary of the Uyghur Revival Association), [Sean Roberts](https://twitter.com/robertsreport) (George Washington University, Author of "The War on Uyghurs"), [Zumretay Arkin](https://twitter.com/ZumretErkin) (Program & Advocacy Manager at the Word Uyghur Congress), and [Kate Cronin-Furman](@kcroninfurman) (UCL Department of Political Science)
+- **May 11**: *Special panel on China’s Uyghur Genocide* with [Kuzzat Altay](https://twitter.com/KuzzatAltay) (President of the Uyghur American Association), [Rushan Abbas](https://twitter.com/RushanAbbas) (President of the Campaign for Uyghurs), [Arslan Hidayat](https://twitter.com/arslan_hidayat) (General Secretary of the Uyghur Revival Association), [Sean Roberts](https://twitter.com/robertsreport) (George Washington University, Author of "The War on Uyghurs"), [Zumretay Arkin](https://twitter.com/ZumretErkin) (Program & Advocacy Manager at the Word Uyghur Congress), and [Kate Cronin-Furman](@kcroninfurman) (UCL Department of Political Science) | [Submit your questions!](https://docs.google.com/forms/d/e/1FAIpQLSd0-F8ELSgi6QeLT4XmOUSEXSIkMV9QQo1Xx6b5Hjyv6FSucg/viewform)
 
 - **May 18**: [Efrén O. Pérez](https://eoperez.com), [Bianca Vicuña](https://polisci.ucla.edu/person/bianca-vicuna/), & [Crystal Robertson](https://polisci.ucla.edu/person/crystal-denise-robertson/), "Prejudiced When Climbing Up or When Falling Down? Why (Some) People of Color Express Anti-Black Racism"
 
