@@ -37,8 +37,6 @@ Sign up for the [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdqp5JwA
 
 ## Spring 2021 Series
 
-- **May 11**: *Special panel on China’s Uyghur Genocide* with [Kuzzat Altay](https://twitter.com/KuzzatAltay) (President of the Uyghur American Association), [Rushan Abbas](https://twitter.com/RushanAbbas) (President of the Campaign for Uyghurs), [Arslan Hidayat](https://twitter.com/arslan_hidayat) (General Secretary of the Uyghur Revival Association), [Sean Roberts](https://twitter.com/robertsreport) (George Washington University, Author of "The War on Uyghurs"), [Zumretay Arkin](https://twitter.com/ZumretErkin) (Program & Advocacy Manager at the World Uyghur Congress), and [Kate Cronin-Furman](@kcroninfurman) (UCL Department of Political Science) | [Submit your questions!](https://docs.google.com/forms/d/e/1FAIpQLSd0-F8ELSgi6QeLT4XmOUSEXSIkMV9QQo1Xx6b5Hjyv6FSucg/viewform)
-
 - **May 18**: [Efrén O. Pérez](https://eoperez.com), [Bianca Vicuña](https://polisci.ucla.edu/person/bianca-vicuna/), & [Crystal Robertson](https://polisci.ucla.edu/person/crystal-denise-robertson/), "Prejudiced When Climbing Up or When Falling Down? Why (Some) People of Color Express Anti-Black Racism"
 
 - **May 25**: [Yoshiko Herrera](https://polisci.wisc.edu/staff/yoshiko-m-herrera/), "The Sunny Side of Essentialism: Race and jazz in contemporary Russia"
@@ -48,6 +46,8 @@ Sign up for the [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdqp5JwA
 - **June 8**: [Julian Rucker](https://scholar.google.com/citations?user=JgQuyUsAAAAJ&hl=en), "Structurally Unjust: Lay Beliefs about Racism and Responses to Racial Inequality in Criminal Justice"
 
 ## Past Talks
+
+- **May 11**: *Special panel on China’s Uyghur Genocide* with [Kuzzat Altay](https://twitter.com/KuzzatAltay) (President of the Uyghur American Association), [Babur Ilchi](https://twitter.com/baburilchi?lang=en) (Program Director of the Campaign for Uyghurs), [Arslan Hidayat](https://twitter.com/arslan_hidayat) (General Secretary of the Uyghur Revival Association), [Sean Roberts](https://twitter.com/robertsreport) (George Washington University, Author of "The War on Uyghurs"), [Zumretay Arkin](https://twitter.com/ZumretErkin) (Program & Advocacy Manager at the World Uyghur Congress), and [Kate Cronin-Furman](@kcroninfurman) (UCL Department of Political Science) | [Submit your questions!](https://docs.google.com/forms/d/e/1FAIpQLSd0-F8ELSgi6QeLT4XmOUSEXSIkMV9QQo1Xx6b5Hjyv6FSucg/viewform)
 
 - **May 4**: [Vicky Fouka](https://vfouka.people.stanford.edu), [Marco Tabellini](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1060330), & [Mina Cikara](https://psychology.fas.harvard.edu/people/mina-cikara), "Hate Crime Increases with Minoritized Group Rank"
 
