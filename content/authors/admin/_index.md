@@ -35,11 +35,11 @@ Sign up for the [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdqp5JwA
 
 ## Spring 2021 Series
 
-- **June 1**: [LaFleur Stephens-Dougan](https://politics.princeton.edu/people/lafleur-stephens-dougan), "Backlash Effect?  White Americans’ Reactions to Racial Disparities in COVID-19"
-
 - **June 8**: [Julian Rucker](https://scholar.google.com/citations?user=JgQuyUsAAAAJ&hl=en), "Structurally Unjust: Lay Beliefs about Racism and Responses to Racial Inequality in Criminal Justice"
 
 ## Past Talks
+
+- **June 1**: [LaFleur Stephens-Dougan](https://politics.princeton.edu/people/lafleur-stephens-dougan), "Backlash Effect?  White Americans’ Reactions to Racial Disparities in COVID-19"
 
 - **May 25**: [Yoshiko Herrera](https://polisci.wisc.edu/staff/yoshiko-m-herrera/), "The Sunny Side of Essentialism: Race and jazz in contemporary Russia" | [Video](https://youtu.be/n0J5LwsGZ-w)
 
