@@ -33,11 +33,13 @@ Talks are at 9 am PST, 12p EST, and 6p CET. They are 1 hour long, with a 40-45 m
 
 Sign up for the [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdqp5JwANqiZNKUmm1avmkbj9-E_pRl5mGVC8esfG3dtaiHKw/viewform) to receive the Zoom invitation and keep updated! Zoom invitations are sent approximately 24 hours before the start of the seminar. If you've signed up, but don't receive an invitation check the depths of your SPAM folder.
 
-## Spring 2021 Series
+## Summer 2021 Series
 
-- **June 8**: [Julian Rucker](https://scholar.google.com/citations?user=JgQuyUsAAAAJ&hl=en), "Structurally Unjust: Lay Beliefs about Racism and Responses to Racial Inequality in Criminal Justice"
+*Coming in August*
 
 ## Past Talks
+
+- **June 8**: [Julian Rucker](https://scholar.google.com/citations?user=JgQuyUsAAAAJ&hl=en), "Structurally Unjust: Lay Beliefs about Racism and Responses to Racial Inequality in Criminal Justice" | [Video](https://youtu.be/t_uHxYPlbek)
 
 - **June 1**: [LaFleur Stephens-Dougan](https://politics.princeton.edu/people/lafleur-stephens-dougan), "Backlash Effect?  White Americans’ Reactions to Racial Disparities in COVID-19"
 
