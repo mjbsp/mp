@@ -35,7 +35,13 @@ Sign up for the [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdqp5JwA
 
 ## Summer 2021 Series
 
-*Coming in August*
+- **August 10**: [Juliane Degner](https://www.psy.uni-hamburg.de/arbeitsbereiche/sozialpsychologie/personen/degner-juliane.html)
+- **August 17**: [Amy Liu](http://www.amyhliu.com)
+- **August 24**: [Neil Hester](https://neilrhester.com)
+- **August 31**: [Amanda Sahar d'Urso](https://polisci.northwestern.edu/people/graduate-students/amanda-durso.html)
+- **September 7**: Special panel on Roma communities
+- **September 14**: [Charlton McIlwain](https://steinhardt.nyu.edu/people/charlton-mcilwain)
+- **September 21**: [Constantine Manda](https://sites.google.com/site/constantinemanda/Home)
 
 ## Past Talks
 
