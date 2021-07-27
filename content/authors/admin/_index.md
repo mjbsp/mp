@@ -41,7 +41,7 @@ Sign up for the [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdqp5JwA
 - **August 31**: [Amanda Sahar d'Urso](https://polisci.northwestern.edu/people/graduate-students/amanda-durso.html), "A Boundary of White Inclusion: How Religion Shapes Perceptions of Ethnoracial Assignment"
 - **September 7**: Special panel on Roma communities
 - **September 14**: [Charlton McIlwain](https://steinhardt.nyu.edu/people/charlton-mcilwain)
-- **September 21**: [Constantine Manda](https://sites.google.com/site/constantinemanda/Home)
+- **September 21**: [Constantine Manda](https://sites.google.com/site/constantinemanda/Home), "Carceral Technologies: A Brief History of the Present"
 
 ## Past Talks
 
