@@ -35,7 +35,6 @@ Sign up for the [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdqp5JwA
 
 ## Summer 2021 Series
 
-- **August 10**: [Juliane Degner](https://www.psy.uni-hamburg.de/arbeitsbereiche/sozialpsychologie/personen/degner-juliane.html), "Pressured to be Proud? Is there a Link between Perceived Norms and Intergroup Attitudes in Members of Disadvantaged Minority Groups?"
 - **August 17**: [Amy Liu](http://www.amyhliu.com), "Attitudinal Effects of Bilingual Ballot Designs: Evidence from the Republic of Georgia"
 - **August 24**: [Neil Hester](https://neilrhester.com), "Intersectionality in Social Cognition"
 - **August 31**: [Amanda Sahar d'Urso](https://polisci.northwestern.edu/people/graduate-students/amanda-durso.html), "A Boundary of White Inclusion: How Religion Shapes Perceptions of Ethnoracial Assignment"
@@ -44,6 +43,8 @@ Sign up for the [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdqp5JwA
 - **September 21**: [Constantine Manda](https://sites.google.com/site/constantinemanda/Home), TBA
 
 ## Past Talks
+
+- **August 10**: [Juliane Degner](https://www.psy.uni-hamburg.de/arbeitsbereiche/sozialpsychologie/personen/degner-juliane.html), "Pressured to be Proud? Is there a Link between Perceived Norms and Intergroup Attitudes in Members of Disadvantaged Minority Groups?"
 
 - **June 8**: [Julian Rucker](https://scholar.google.com/citations?user=JgQuyUsAAAAJ&hl=en), "Structurally Unjust: Lay Beliefs about Racism and Responses to Racial Inequality in Criminal Justice" | [Video](https://youtu.be/t_uHxYPlbek)
 
