@@ -35,7 +35,6 @@ Sign up for the [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdqp5JwA
 
 ## Summer 2021 Series
 
-- **August 17**: [Amy Liu](http://www.amyhliu.com), "Attitudinal Effects of Bilingual Ballot Designs: Evidence from the Republic of Georgia"
 - **August 24**: [Neil Hester](https://neilrhester.com), "Intersectionality in Social Cognition"
 - **August 31**: [Amanda Sahar d'Urso](https://polisci.northwestern.edu/people/graduate-students/amanda-durso.html), "A Boundary of White Inclusion: How Religion Shapes Perceptions of Ethnoracial Assignment"
 - **September 7**: Special panel on Roma communities with [Margareta Matache](https://www.hsph.harvard.edu/margareta-matache/), [Angela Kocze](https://people.ceu.edu/angela_kocze), [Senada Sali](http://www.errc.org/cikk.php?cikk=4866), and [Ioanida Costache](https://www.ushmm.org/research/about-the-mandel-center/all-fellows-and-scholars/ioanida-costache)
@@ -43,6 +42,8 @@ Sign up for the [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdqp5JwA
 - **September 21**: [Constantine Manda](https://sites.google.com/site/constantinemanda/Home), TBA
 
 ## Past Talks
+
+- **August 17**: [Amy Liu](http://www.amyhliu.com), "Attitudinal Effects of Bilingual Ballot Designs: Evidence from the Republic of Georgia" | [Video](https://youtu.be/OTmZErlcRRQ)
 
 - **August 10**: [Juliane Degner](https://www.psy.uni-hamburg.de/arbeitsbereiche/sozialpsychologie/personen/degner-juliane.html), "Pressured to be Proud? Is there a Link between Perceived Norms and Intergroup Attitudes in Members of Disadvantaged Minority Groups?"
 
