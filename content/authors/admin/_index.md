@@ -40,6 +40,15 @@ Sign up for the [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdqp5JwA
 - **September 14**: [Charlton McIlwain](https://steinhardt.nyu.edu/people/charlton-mcilwain), "Carceral Technologies: A Brief History of the Present"
 - **September 21**: [Constantine Manda](https://sites.google.com/site/constantinemanda/Home), TBA
 
+## Fall 2021 Series
+
+- **October 12**: [Sabina Čehajić-Clancy](https://www.su.se/english/profiles/sace4538-1.456657)
+- **October 19**: [LaGina Gause](https://polisci.ucsd.edu/people/faculty/faculty-directory/currently-active-faculty/gause-profile.html) and [Maneesh Arora](https://www.maneesharora.com)
+- **October 26**: [Semra Sevi](https://semrasevi.com)
+- **November 2**: [Vincent Hutchings](https://lsa.umich.edu/polisci/people/faculty/vincenth.html)
+- **November 9**: [Robin Bergh](https://scholar.google.com/citations?user=jhBwJpgAAAAJ&hl=en)
+- **November 16**: [Amanda Lea Robinson](https://www.amandalearobinson.com)
+
 ## Past Talks
 
 - **August 24**: [Neil Hester](https://neilrhester.com), "Intersectionality in Social Cognition" | [Video](https://youtu.be/SgRSyo-LApo)
