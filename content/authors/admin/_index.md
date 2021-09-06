@@ -35,7 +35,7 @@ Sign up for the [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdqp5JwA
 
 ## Summer 2021 Series
 
-- **September 7**: Special panel on Roma communities with [Margareta Matache](https://www.hsph.harvard.edu/margareta-matache/), [Angela Kocze](https://people.ceu.edu/angela_kocze), [Senada Sali](http://www.errc.org/cikk.php?cikk=4866), and [Ioanida Costache](https://www.ushmm.org/research/about-the-mandel-center/all-fellows-and-scholars/ioanida-costache)
+- **September 7**: Special panel on Roma communities with [Margareta Matache](https://www.hsph.harvard.edu/margareta-matache/), [Senada Sali](http://www.errc.org/cikk.php?cikk=4866), and [Ioanida Costache](https://www.ushmm.org/research/about-the-mandel-center/all-fellows-and-scholars/ioanida-costache)
 - **September 14**: [Charlton McIlwain](https://steinhardt.nyu.edu/people/charlton-mcilwain), "Carceral Technologies: A Brief History of the Present"
 - **September 21**: [Constantine Manda](https://sites.google.com/site/constantinemanda/Home), TBA
 
