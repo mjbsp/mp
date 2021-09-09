@@ -35,7 +35,6 @@ Sign up for the [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdqp5JwA
 
 ## Summer 2021 Series
 
-- **September 7**: Special panel on Roma communities with [Margareta Matache](https://www.hsph.harvard.edu/margareta-matache/), [Senada Sali](http://www.errc.org/cikk.php?cikk=4866), and [Ioanida Costache](https://www.ushmm.org/research/about-the-mandel-center/all-fellows-and-scholars/ioanida-costache)
 - **September 14**: [Charlton McIlwain](https://steinhardt.nyu.edu/people/charlton-mcilwain), "Carceral Technologies: A Brief History of the Present"
 - **September 21**: [Constantine Manda](https://sites.google.com/site/constantinemanda/Home), TBA
 
@@ -50,7 +49,9 @@ Sign up for the [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdqp5JwA
 
 ## Past Talks
 
-- **August 31**: [Amanda Sahar d'Urso](https://polisci.northwestern.edu/people/graduate-students/amanda-durso.html), "A Boundary of White Inclusion: How Religion Shapes Perceptions of Ethnoracial Assignment"
+- **September 7**: Special panel on Roma communities with [Margareta Matache](https://www.hsph.harvard.edu/margareta-matache/), [Senada Sali](http://www.errc.org/cikk.php?cikk=4866), and [Ioanida Costache](https://www.ushmm.org/research/about-the-mandel-center/all-fellows-and-scholars/ioanida-costache) | [Video](https://youtu.be/sJWfKbnxnGk)
+
+- **August 31**: [Amanda Sahar d'Urso](https://polisci.northwestern.edu/people/graduate-students/amanda-durso.html), "A Boundary of White Inclusion: How Religion Shapes Perceptions of Ethnoracial Assignment" | [Video](https://youtu.be/IktjFsy8APw)
 
 - **August 24**: [Neil Hester](https://neilrhester.com), "Intersectionality in Social Cognition" | [Video](https://youtu.be/SgRSyo-LApo)
 
