@@ -35,19 +35,20 @@ Sign up for the [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdqp5JwA
 
 ## Summer 2021 Series
 
-- **September 14**: [Charlton McIlwain](https://steinhardt.nyu.edu/people/charlton-mcilwain), "Carceral Technologies: A Brief History of the Present"
-- **September 21**: [Constantine Manda](https://sites.google.com/site/constantinemanda/Home), TBA
+- **September 21**: [Constantine Manda](https://sites.google.com/site/constantinemanda/Home), "Majority-Minority Politics in the Proposed East African Federation"
 
 ## Fall 2021 Series
 
-- **October 12**: [Sabina Čehajić-Clancy](https://www.su.se/english/profiles/sace4538-1.456657)
-- **October 19**: [LaGina Gause](https://polisci.ucsd.edu/people/faculty/faculty-directory/currently-active-faculty/gause-profile.html) and [Maneesh Arora](https://www.maneesharora.com)
-- **October 26**: [Semra Sevi](https://semrasevi.com)
-- **November 2**: [Vincent Hutchings](https://lsa.umich.edu/polisci/people/faculty/vincenth.html)
+- **October 12**: [Sabina Čehajić-Clancy](https://www.su.se/english/profiles/sace4538-1.456657), "Moral exemplar intervention: A new paradigm for conflict resolution and intergroup reconciliation"
+- **October 19**: [LaGina Gause](https://polisci.ucsd.edu/people/faculty/faculty-directory/currently-active-faculty/gause-profile.html) and [Maneesh Arora](https://www.maneesharora.com), "Black Lives Matter Protests Amidst a Global Pandemic"
+- **October 26**: [Semra Sevi](https://semrasevi.com), "Is Incumbency Advantage Gendered?"
+- **November 2**: [Vincent Hutchings](https://lsa.umich.edu/polisci/people/faculty/vincenth.html), "If They Only Knew’: Informing Blacks and Whites about the Racial Wealth Gap"
 - **November 9**: [Robin Bergh](https://scholar.google.com/citations?user=jhBwJpgAAAAJ&hl=en)
-- **November 16**: [Amanda Lea Robinson](https://www.amandalearobinson.com)
+- **November 16**: [Amanda Lea Robinson](https://www.amandalearobinson.com), "The Political Implications of Ethnic Visibility"
 
 ## Past Talks
+
+- **September 14**: [Charlton McIlwain](https://steinhardt.nyu.edu/people/charlton-mcilwain), "Carceral Technologies: A Brief History of the Present"
 
 - **September 7**: Special panel on Roma communities with [Margareta Matache](https://www.hsph.harvard.edu/margareta-matache/), [Senada Sali](http://www.errc.org/cikk.php?cikk=4866), and [Ioanida Costache](https://www.ushmm.org/research/about-the-mandel-center/all-fellows-and-scholars/ioanida-costache) | [Video](https://youtu.be/sJWfKbnxnGk)
 
