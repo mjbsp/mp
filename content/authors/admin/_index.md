@@ -33,10 +33,6 @@ Talks are at 9 am PST, 12p EST, and 6p CET. They are 1 hour long, with a 40-45 m
 
 Sign up for the [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdqp5JwANqiZNKUmm1avmkbj9-E_pRl5mGVC8esfG3dtaiHKw/viewform) to receive the Zoom invitation and keep updated! Zoom invitations are sent approximately 24 hours before the start of the seminar. If you've signed up, but don't receive an invitation check the depths of your SPAM folder.
 
-## Summer 2021 Series
-
-- **September 21**: [Constantine Manda](https://sites.google.com/site/constantinemanda/Home), "Majority-Minority Politics in the Proposed East African Federation"
-
 ## Fall 2021 Series
 
 - **October 12**: [Sabina Čehajić-Clancy](https://www.su.se/english/profiles/sace4538-1.456657), "Moral exemplar intervention: A new paradigm for conflict resolution and intergroup reconciliation"
@@ -47,6 +43,8 @@ Sign up for the [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdqp5JwA
 - **November 16**: [Amanda Lea Robinson](https://www.amandalearobinson.com), "The Political Implications of Ethnic Visibility"
 
 ## Past Talks
+
+- **September 21**: [Constantine Manda](https://sites.google.com/site/constantinemanda/Home), "Majority-Minority Politics in the Proposed East African Federation" | [Video](https://youtu.be/y4E_Da6aYtE)
 
 - **September 14**: [Charlton McIlwain](https://steinhardt.nyu.edu/people/charlton-mcilwain), "Carceral Technologies: A Brief History of the Present"
 
