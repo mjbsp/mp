@@ -36,7 +36,7 @@ Sign up for the [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdqp5JwA
 ## Fall 2021 Series
 
 - **October 19**: [LaGina Gause](https://polisci.ucsd.edu/people/faculty/faculty-directory/currently-active-faculty/gause-profile.html) and [Maneesh Arora](https://www.maneesharora.com), "Black Lives Matter Protests Amidst a Global Pandemic"
-- **October 26**: [Semra Sevi](https://semrasevi.com), "Is Incumbency Advantage Gendered?"
+- **October 26**: [Ada Nina Johnson-Kanu](https://www.adajohnson-kanu.com), "Colonial Legacies in State Building: Ethnicity and Bureaucratic Representation in Nigeria"
 - **November 2**: [Vincent Hutchings](https://lsa.umich.edu/polisci/people/faculty/vincenth.html), "If They Only Knew’: Informing Blacks and Whites about the Racial Wealth Gap"
 - **November 9**: [Robin Bergh](https://scholar.google.com/citations?user=jhBwJpgAAAAJ&hl=en), "Bounded ethnocentrism - The difference between being anti-minority and anti-outgroup"
 - **November 16**: [Amanda Lea Robinson](https://www.amandalearobinson.com), "The Political Implications of Ethnic Visibility"
