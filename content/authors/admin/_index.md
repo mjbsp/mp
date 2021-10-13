@@ -35,7 +35,6 @@ Sign up for the [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdqp5JwA
 
 ## Fall 2021 Series
 
-- **October 12**: [Sabina Čehajić-Clancy](https://www.su.se/english/profiles/sace4538-1.456657), "Moral exemplar intervention: A new paradigm for conflict resolution and intergroup reconciliation"
 - **October 19**: [LaGina Gause](https://polisci.ucsd.edu/people/faculty/faculty-directory/currently-active-faculty/gause-profile.html) and [Maneesh Arora](https://www.maneesharora.com), "Black Lives Matter Protests Amidst a Global Pandemic"
 - **October 26**: [Semra Sevi](https://semrasevi.com), "Is Incumbency Advantage Gendered?"
 - **November 2**: [Vincent Hutchings](https://lsa.umich.edu/polisci/people/faculty/vincenth.html), "If They Only Knew’: Informing Blacks and Whites about the Racial Wealth Gap"
@@ -43,6 +42,8 @@ Sign up for the [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdqp5JwA
 - **November 16**: [Amanda Lea Robinson](https://www.amandalearobinson.com), "The Political Implications of Ethnic Visibility"
 
 ## Past Talks
+
+- **October 12**: [Sabina Čehajić-Clancy](https://www.su.se/english/profiles/sace4538-1.456657), "Moral exemplar intervention: A new paradigm for conflict resolution and intergroup reconciliation" | [Video](https://youtu.be/_ogpyRriI8Y)
 
 - **September 21**: [Constantine Manda](https://sites.google.com/site/constantinemanda/Home), "Majority-Minority Politics in the Proposed East African Federation" | [Video](https://youtu.be/y4E_Da6aYtE)
 
