@@ -42,7 +42,7 @@ Sign up for the [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdqp5JwA
 
 ## Past Talks
 
-- **October 19**: [LaGina Gause](https://polisci.ucsd.edu/people/faculty/faculty-directory/currently-active-faculty/gause-profile.html) and [Maneesh Arora](https://www.maneesharora.com), "Black Lives Matter Protests Amidst a Global Pandemic"
+- **October 19**: [LaGina Gause](https://polisci.ucsd.edu/people/faculty/faculty-directory/currently-active-faculty/gause-profile.html) and [Maneesh Arora](https://www.maneesharora.com), "Black Lives Matter Protests Amidst a Global Pandemic" | [Video](https://youtu.be/gQ0SYjkGFe0)
 
 - **October 12**: [Sabina Čehajić-Clancy](https://www.su.se/english/profiles/sace4538-1.456657), "Moral exemplar intervention: A new paradigm for conflict resolution and intergroup reconciliation" | [Video](https://youtu.be/_ogpyRriI8Y)
 
