@@ -43,7 +43,7 @@ Sign up for the [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdqp5JwA
 - **February 1**: [Amaney Jamal](https://politics.princeton.edu/people/amaney-jamal)
 - **February 8**: [Semra Sevi](https://semrasevi.com)
 - **February 15**: No event, [a break](https://open.spotify.com/playlist/5hCnuUkDws4y4TJhwevXVZ?si=8942f98c3ebb4a1e)
-- **February 22**: Journal Editors roundtable with editors from Political Psychology, Journal of Personality and Social Psychology,
+- **February 22**: Journal Editors roundtable with editors from Political Psychology, Journal of Personality and Social Psychology, American Political Science Review, Political Behavior, and Journal of Ethnic and Migration Studies
 - **March 1**: [Joaquin Bahamondes Correa](https://scholar.google.es/citations?user=YETb1hIAAAAJ&hl=es)
 - **March 8**: [Aala Abdelgadir](https://semrasevi.com)
 - **March 15**: [Sylvia Perry](http://www.sciplab.com)
