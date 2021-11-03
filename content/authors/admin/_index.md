@@ -35,11 +35,12 @@ Sign up for the [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdqp5JwA
 
 ## Fall 2021 Series
 
-- **November 2**: [Vincent Hutchings](https://lsa.umich.edu/polisci/people/faculty/vincenth.html), "If They Only Knew’: Informing Blacks and Whites about the Racial Wealth Gap"
 - **November 9**: [Robin Bergh](https://scholar.google.com/citations?user=jhBwJpgAAAAJ&hl=en), "Bounded ethnocentrism - The difference between being anti-minority and anti-outgroup"
 - **November 16**: [Amanda Lea Robinson](https://www.amandalearobinson.com), "The Political Implications of Ethnic Visibility"
 
 ## Past Talks
+
+- **November 2**: [Vincent Hutchings](https://lsa.umich.edu/polisci/people/faculty/vincenth.html), "If They Only Knew’: Informing Blacks and Whites about the Racial Wealth Gap" | [Video](https://youtu.be/FmnUu2f5iA4)
 
 - **October 26**: [Ada Nina Johnson-Kanu](https://www.adajohnson-kanu.com), "Colonial Legacies in State Building: Ethnicity and Bureaucratic Representation in Nigeria" | [Video](https://youtu.be/Y-OZMdp8vDE)
 
