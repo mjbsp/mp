@@ -35,7 +35,6 @@ Sign up for the [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdqp5JwA
 
 ## Fall 2021 Series
 
-- **November 9**: [Robin Bergh](https://scholar.google.com/citations?user=jhBwJpgAAAAJ&hl=en), "Bounded ethnocentrism - The difference between being anti-minority and anti-outgroup"
 - **November 16**: [Amanda Lea Robinson](https://www.amandalearobinson.com), "The Political Implications of Ethnic Visibility"
 
 ## Winter 2022 series
@@ -50,6 +49,8 @@ Sign up for the [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdqp5JwA
 - **March 22**: [Sergio Garcia-Rios](https://www.sergiogarciarios.com)
 
 ## Past Talks
+
+- **November 9**: [Robin Bergh](https://scholar.google.com/citations?user=jhBwJpgAAAAJ&hl=en), "Bounded ethnocentrism - The difference between being anti-minority and anti-outgroup" | [Video](https://youtu.be/t3yRnQUPdcA)
 
 - **November 2**: [Vincent Hutchings](https://lsa.umich.edu/polisci/people/faculty/vincenth.html), "If They Only Knew’: Informing Blacks and Whites about the Racial Wealth Gap" | [Video](https://youtu.be/FmnUu2f5iA4)
 
