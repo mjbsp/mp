@@ -33,10 +33,6 @@ Talks are at 9 am PST, 12p EST, and 6p CET. They are 1 hour long, with a 40-45 m
 
 Sign up for the [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdqp5JwANqiZNKUmm1avmkbj9-E_pRl5mGVC8esfG3dtaiHKw/viewform) to receive the Zoom invitation and keep updated! Zoom invitations are sent approximately 24 hours before the start of the seminar. If you've signed up, but don't receive an invitation check the depths of your SPAM folder.
 
-## Fall 2021 Series
-
-- **November 16**: [Amanda Lea Robinson](https://www.amandalearobinson.com), "The Political Implications of Ethnic Visibility"
-
 ## Winter 2022 series
 
 - **February 1**: [Amaney Jamal](https://politics.princeton.edu/people/amaney-jamal)
@@ -49,6 +45,8 @@ Sign up for the [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdqp5JwA
 - **March 22**: [Sergio Garcia-Rios](https://www.sergiogarciarios.com)
 
 ## Past Talks
+
+- **November 16**: [Amanda Lea Robinson](https://www.amandalearobinson.com), "The Political Implications of Ethnic Visibility" | [Video](https://youtu.be/jf3AehQjllk)
 
 - **November 9**: [Robin Bergh](https://scholar.google.com/citations?user=jhBwJpgAAAAJ&hl=en), "Bounded ethnocentrism - The difference between being anti-minority and anti-outgroup" | [Video](https://youtu.be/t3yRnQUPdcA)
 
