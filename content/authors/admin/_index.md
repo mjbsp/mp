@@ -151,3 +151,5 @@ Sign up for the [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdqp5JwA
 - **June 4**: [Adam Bonica](https://web.stanford.edu/~bonica/), [Jake Grumbach](https://www.polisci.washington.edu/people/jake-grumbach), [Charlotte Hill](https://charlottelhill.com/), and [Hakeem Jefferson](https://politicalscience.stanford.edu/people/hakeem-j-jefferson), "All-Mail Voting Increases Turnout and Reduces Turnout Inequality" | [working paper](https://www.dropbox.com/s/8n4zjvgmytim1rv/Bonica_Grumbach_Hill_Jefferson_Mail_Voting.pdf?raw=1) | [Video](https://youtu.be/pd9FJz5nfIY)
 
 **Organizers**: [Ana Bracic](https://www.anabracic.com/), [Mark Brandt](https://tbslaboratory.com/), [Nazita Lajevardi](http://www.nazitalajevardi.com/)
+
+[For our thoughts on MPOSS, see this publication](https://osf.io/f6gqa/)
