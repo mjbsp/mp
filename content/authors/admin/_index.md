@@ -35,7 +35,6 @@ Sign up for the [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdqp5JwA
 
 ## Winter 2022 series
 
-- **February 1**: [Amaney Jamal](https://politics.princeton.edu/people/amaney-jamal), "The Global Segregation of the Poor"
 - **February 8**: [Semra Sevi](https://semrasevi.com), "Is Incumbency Advantage Gendered"
 - **February 15**: No event, [a break](https://open.spotify.com/playlist/5hCnuUkDws4y4TJhwevXVZ?si=8942f98c3ebb4a1e)
 - **February 22**: Journal Editors roundtable with editors from Political Psychology, Journal of Personality and Social Psychology, American Political Science Review, Political Behavior, and Journal of Ethnic and Migration Studies
@@ -45,6 +44,10 @@ Sign up for the [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdqp5JwA
 - **March 22**: [Sergio Garcia-Rios](https://www.sergiogarciarios.com)
 
 ## Past Talks
+
+- **February 1**: [Amaney Jamal](https://politics.princeton.edu/people/amaney-jamal), "The Global Segregation of the Poor"
+
+### MPOSS 2021
 
 - **November 16**: [Amanda Lea Robinson](https://www.amandalearobinson.com), "The Political Implications of Ethnic Visibility" | [Video](https://youtu.be/jf3AehQjllk)
 
