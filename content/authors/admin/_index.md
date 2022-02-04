@@ -41,7 +41,7 @@ Sign up for the [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdqp5JwA
 - **March 1**: [Joaquin Bahamondes Correa](https://scholar.google.es/citations?user=YETb1hIAAAAJ&hl=es), "A Model of Ideologically Motivated Ethnic-based Victimization"
 - **March 8**: [Aala Abdelgadir](https://semrasevi.com)
 - **March 15**: [Sylvia Perry](http://www.sciplab.com), "Understanding and Encouraging White American Parent-Child Conversations About Race"
-- **March 22**: [Sergio Garcia-Rios](https://www.sergiogarciarios.com)
+- **March 22**: [Sergio Garcia-Rios](https://www.sergiogarciarios.com), "Dime con quien andas... Kamala Harris and intersectional assessments among Latino voter"
 
 ## Past Talks
 
