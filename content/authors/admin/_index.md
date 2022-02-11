@@ -31,7 +31,7 @@ MPOSS is a Zoom seminar series on minority politics in comparative politics, Ame
 
 Talks are at 9 am PST, 12p EST, and 6p CET. They are 1 hour long, with a 40-45 minute zoom presentation and a 15 minute question and answer session. We aim to bring together interested folks from different regions, continents, and subfields to participate in these workshops. ALL are welcome!
 
-Sign up for the [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdqp5JwANqiZNKUmm1avmkbj9-E_pRl5mGVC8esfG3dtaiHKw/viewform) to receive the Zoom invitation and keep updated! Zoom invitations are sent approximately 24 hours before the start of the seminar. If you've signed up, but don't receive an invitation check the depths of your SPAM folder.
+Sign up for the [mailing list](http://eepurl.com/g5dehf) to receive the Zoom invitation and keep updated! Zoom invitations are sent approximately 24 hours before the start of the seminar. If you've signed up, but don't receive an invitation check the depths of your SPAM folder.
 
 ## Winter 2022 series
 
