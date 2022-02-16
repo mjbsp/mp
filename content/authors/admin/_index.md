@@ -45,7 +45,7 @@ Sign up for the [mailing list](http://eepurl.com/g5dehf) to receive the Zoom inv
 ## Spring 2022 Series
 
 - **April 26**: [Tamar Mitts](https://www.sipa.columbia.edu/faculty-research/faculty-directory/tamar-mitts)
-- **May 03**: [Nadie Brown](https://www.nadiaebrownphd.com)
+- **May 03**: [Nadia Brown](https://www.nadiaebrownphd.com)
 - **May 10**: [Cesi Cruz](https://www.cesicruz.com)
 - **May 17**: [Mirya Holman](https://sites.google.com/view/miryaholman)
 - **May 24**: [Erika Hall](https://goizueta.emory.edu/faculty/profiles/erika-v-hall)
