@@ -51,7 +51,7 @@ Sign up for the [mailing list](http://eepurl.com/g5dehf) to receive the Zoom inv
 
 ## Past Talks
 
-- **February 22**: Journal Editors roundtable with editors from Political Psychology, Journal of Personality and Social Psychology, American Political Science Review, Political Behavior, and Journal of Ethnic and Migration Studies | [Video](https://youtu.be/RkAf1t3Jnec)
+- **February 22**: Journal Editors roundtable with editors from Political Psychology, Journal of Personality and Social Psychology, American Political Science Review, Political Behavior, and Journal of Ethnic and Migration Studies | [Video](https://youtu.be/E9SvMJ3zuN0)
 
 - **February 8**: [Semra Sevi](https://semrasevi.com), "Is Incumbency Advantage Gendered"
 
