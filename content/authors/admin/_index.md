@@ -35,7 +35,7 @@ Sign up for the [mailing list](http://eepurl.com/g5dehf) to receive the Zoom inv
 
 ## Winter 2022 series
 
-- **March 8**: [Aala Abdelgadir](https://semrasevi.com) & [Vicky Fouka](https://vfouka.people.stanford.edu), "Perceived Discrimination and Adolescent Muslim Integration: Evidence from Europe"
+- **March 8**: [Aala Abdelgadir](https://scholar.google.com/citations?user=mNQhQK8AAAAJ&hl=en) & [Vicky Fouka](https://vfouka.people.stanford.edu), "Perceived Discrimination and Adolescent Muslim Integration: Evidence from Europe"
 - **March 15**: [Sylvia Perry](http://www.sciplab.com), "Understanding and Encouraging White American Parent-Child Conversations About Race"
 - **March 22**: [Sergio Garcia-Rios](https://www.sergiogarciarios.com), "Dime con quien andas... Kamala Harris and intersectional assessments among Latino voter"
 
