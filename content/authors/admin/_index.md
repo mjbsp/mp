@@ -35,7 +35,6 @@ Sign up for the [mailing list](http://eepurl.com/g5dehf) to receive the Zoom inv
 
 ## Winter 2022 series
 
-- **March 15**: [Sylvia Perry](http://www.sciplab.com), "Understanding and Encouraging White American Parent-Child Conversations About Race"
 - **March 22**: [Sergio Garcia-Rios](https://www.sergiogarciarios.com), "Dime con quien andas... Kamala Harris and intersectional assessments among Latino voter"
 
 ## Spring 2022 Series
@@ -48,6 +47,8 @@ Sign up for the [mailing list](http://eepurl.com/g5dehf) to receive the Zoom inv
 - **May 31**: [Nour Kteily](https://www.kellogg.northwestern.edu/faculty/directory/kteily_nour.aspx)
 
 ## Past Talks
+
+- **March 15**: [Sylvia Perry](http://www.sciplab.com), "Understanding and Encouraging White American Parent-Child Conversations About Race" | [Video](https://youtu.be/l1oe2p9J4vU)
 
 - **March 8**: [Aala Abdelgadir](https://scholar.google.com/citations?user=mNQhQK8AAAAJ&hl=en) & [Vicky Fouka](https://vfouka.people.stanford.edu), "Perceived Discrimination and Adolescent Muslim Integration: Evidence from Europe"
 
