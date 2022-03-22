@@ -33,10 +33,6 @@ Talks are at 9 am PST, 12p EST, and 6p CET. They are 1 hour long, with a 40-45 m
 
 Sign up for the [mailing list](http://eepurl.com/g5dehf) to receive the Zoom invitation and keep updated! Zoom invitations are sent approximately 24 hours before the start of the seminar. If you've signed up, but don't receive an invitation check the depths of your SPAM folder.
 
-## Winter 2022 series
-
-- **March 22**: [Sergio Garcia-Rios](https://www.sergiogarciarios.com), "Dime con quien andas... Kamala Harris and intersectional assessments among Latino voter"
-
 ## Spring 2022 Series
 
 - **April 26**: [Tamar Mitts](https://www.sipa.columbia.edu/faculty-research/faculty-directory/tamar-mitts)
@@ -47,6 +43,8 @@ Sign up for the [mailing list](http://eepurl.com/g5dehf) to receive the Zoom inv
 - **May 31**: [Nour Kteily](https://www.kellogg.northwestern.edu/faculty/directory/kteily_nour.aspx)
 
 ## Past Talks
+
+- **March 22**: [Sergio Garcia-Rios](https://www.sergiogarciarios.com), "Dime con quien andas... Kamala Harris and intersectional assessments among Latino voter" | [Video](https://youtu.be/9XEbqYjzvKA)
 
 - **March 15**: [Sylvia Perry](http://www.sciplab.com), "Understanding and Encouraging White American Parent-Child Conversations About Race" | [Video](https://youtu.be/l1oe2p9J4vU)
 
