@@ -35,7 +35,7 @@ Sign up for the [mailing list](http://eepurl.com/g5dehf) to receive the Zoom inv
 
 ## Spring 2022 Series
 
-- **April 26**: [Tamar Mitts](https://www.sipa.columbia.edu/faculty-research/faculty-directory/tamar-mitts), "The Politics of Allyship: Multiethnic Coalitions and Mass Attitudes Towards Protest"
+- **April 26**: [Tamar Mitts](https://www.sipa.columbia.edu/faculty-research/faculty-directory/tamar-mitts), [Devorah Manekin](https://sites.google.com/site/devorahsmanekin/), & [Yael Zeira](https://www.yaelzeira.org), "The Politics of Allyship: Multiethnic Coalitions and Mass Attitudes Towards Protest"
 - **May 03**: [Nadia Brown](https://www.nadiaebrownphd.com), "The Politics of Appearance for Black Women Political Elites"
 - **May 10**: [Cesi Cruz](https://www.cesicruz.com), "Gender, Social Recognition, and Political Influence"
 - **May 17**: [Mirya Holman](https://sites.google.com/view/miryaholman) & [Emily Farris](https://addran.tcu.edu/view/emily-farris), "Sheriffs, right-wing extremism, and the limits of U.S. federalism during a crisis"
