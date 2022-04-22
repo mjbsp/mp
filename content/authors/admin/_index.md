@@ -39,7 +39,7 @@ Sign up for the [mailing list](https://forms.gle/Ys17EbVyFyPfwg7P7) to receive t
 - **May 03**: [Cesi Cruz](https://www.cesicruz.com), "Gender, Social Recognition, and Political Influence"
 - **May 10**: [Nadia Brown](https://www.nadiaebrownphd.com), "The Politics of Appearance for Black Women Political Elites"
 - **May 17**: [Mirya Holman](https://sites.google.com/view/miryaholman) & [Emily Farris](https://addran.tcu.edu/view/emily-farris), "Sheriffs, right-wing extremism, and the limits of U.S. federalism during a crisis"
-- **May 24**: [Erika Hall](https://goizueta.emory.edu/faculty/profiles/erika-v-hall), [Sarah S. M. Townsend](sarahtow@marshall.usc.edu), & [James T. Carter](https://www.jamestcarter.net), "What’s in a Name? The Hidden Historical Ideologies Embedded in the Black and African American Racial Labels"
+- **May 24**: [Erika Hall](https://goizueta.emory.edu/faculty/profiles/erika-v-hall), [Sarah S. M. Townsend](https://www.marshall.usc.edu/personnel/sarah-townsend), & [James T. Carter](https://www.jamestcarter.net), "What’s in a Name? The Hidden Historical Ideologies Embedded in the Black and African American Racial Labels"
 - **May 31**: [Nour Kteily](https://www.kellogg.northwestern.edu/faculty/directory/kteily_nour.aspx), "Beliefs about What Disadvantaged Groups Would Do with Power Shape Advantaged Groups’ (Un)Willingness to Share it"
 
 ## Past Talks
