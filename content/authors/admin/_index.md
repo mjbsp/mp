@@ -35,7 +35,6 @@ Sign up for the [mailing list](https://forms.gle/Ys17EbVyFyPfwg7P7) to receive t
 
 ## Spring 2022 Series
 
-- **April 26**: [Tamar Mitts](https://www.sipa.columbia.edu/faculty-research/faculty-directory/tamar-mitts), [Devorah Manekin](https://sites.google.com/site/devorahsmanekin/), & [Yael Zeira](https://www.yaelzeira.org), "The Politics of Allyship: Multiethnic Coalitions and Mass Attitudes Towards Protest"
 - **May 03**: [Cesi Cruz](https://www.cesicruz.com), "Gender, Social Recognition, and Political Influence"
 - **May 10**: [Nadia Brown](https://www.nadiaebrownphd.com), "The Politics of Appearance for Black Women Political Elites"
 - **May 17**: [Mirya Holman](https://sites.google.com/view/miryaholman) & [Emily Farris](https://addran.tcu.edu/view/emily-farris), "Sheriffs, right-wing extremism, and the limits of U.S. federalism during a crisis"
@@ -43,6 +42,8 @@ Sign up for the [mailing list](https://forms.gle/Ys17EbVyFyPfwg7P7) to receive t
 - **May 31**: [Nour Kteily](https://www.kellogg.northwestern.edu/faculty/directory/kteily_nour.aspx), "Beliefs about What Disadvantaged Groups Would Do with Power Shape Advantaged Groups’ (Un)Willingness to Share it"
 
 ## Past Talks
+
+- **April 26**: [Tamar Mitts](https://www.sipa.columbia.edu/faculty-research/faculty-directory/tamar-mitts), [Devorah Manekin](https://sites.google.com/site/devorahsmanekin/), & [Yael Zeira](https://www.yaelzeira.org), "The Politics of Allyship: Multiethnic Coalitions and Mass Attitudes Towards Protest"
 
 - **March 22**: [Sergio Garcia-Rios](https://www.sergiogarciarios.com), "Dime con quien andas... Kamala Harris and intersectional assessments among Latino voter" | [Video](https://youtu.be/9XEbqYjzvKA)
 
