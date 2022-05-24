@@ -35,10 +35,11 @@ Sign up for the [mailing list](https://forms.gle/Ys17EbVyFyPfwg7P7) to receive t
 
 ## Spring 2022 Series
 
-- **May 24**: [Erika Hall](https://goizueta.emory.edu/faculty/profiles/erika-v-hall), [Sarah S. M. Townsend](https://www.marshall.usc.edu/personnel/sarah-townsend), & [James T. Carter](https://www.jamestcarter.net), "What’s in a Name? The Hidden Historical Ideologies Embedded in the Black and African American Racial Labels"
 - **May 31**: [Nour Kteily](https://www.kellogg.northwestern.edu/faculty/directory/kteily_nour.aspx), "Beliefs about What Disadvantaged Groups Would Do with Power Shape Advantaged Groups’ (Un)Willingness to Share it"
 
 ## Past Talks
+
+- **May 24**: [Erika Hall](https://goizueta.emory.edu/faculty/profiles/erika-v-hall), [Sarah S. M. Townsend](https://www.marshall.usc.edu/personnel/sarah-townsend), & [James T. Carter](https://www.jamestcarter.net), "What’s in a Name? The Hidden Historical Ideologies Embedded in the Black and African American Racial Labels" | [Video](https://youtu.be/citDzo6flcA)
 
 - **May 17**: [Mirya Holman](https://sites.google.com/view/miryaholman) & [Emily Farris](https://addran.tcu.edu/view/emily-farris), "Sheriffs, right-wing extremism, and the limits of U.S. federalism during a crisis" | [Video](https://youtu.be/XMW9Kcmu2iI)
 
