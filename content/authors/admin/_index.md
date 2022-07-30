@@ -33,6 +33,10 @@ Talks are at 9 am PST, 12p EST, and 6p CET. They are 1 hour long, with a 40-45 m
 
 Sign up for the [mailing list](https://forms.gle/Ys17EbVyFyPfwg7P7) to receive the Zoom invitation and keep updated! Zoom invitations are sent approximately 24 hours before the start of the seminar. If you've signed up, but don't receive an invitation check the depths of your SPAM folder.
 
+## Fall 2022
+
+**Coming soon!**
+
 ## Past Talks
 
 - **May 31**: [Nour Kteily](https://www.kellogg.northwestern.edu/faculty/directory/kteily_nour.aspx), "Beliefs about What Disadvantaged Groups Would Do with Power Shape Advantaged Groups’ (Un)Willingness to Share it" | [Video](https://youtu.be/Rk5I2lu5Le8)
