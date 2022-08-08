@@ -36,14 +36,14 @@ Sign up for the [mailing list](https://forms.gle/Ys17EbVyFyPfwg7P7) to receive t
 ## Fall 2022
 
  - September 27: [Justin Zimmerman](https://polisci.northwestern.edu/people/graduate-students/justin-zimmerman.html)
- - October, 04: [Nejla Asimovic](https://www.nejlaasimovic.com)
- - October, 11: [Gerald Higginbotham](https://gdhigginbotham.com)
- - October, 18: [Hannah Ridge](https://sites.google.com/view/hannahmridge/home?authuser=0)
- - October, 25: [Balbir Singh](https://www.balbirsingh.org)
- - November, 01: [Kesicia Dickinson](https://www.kesiciaadickinson.com)
- - November, 08: [Tosen Nwadei](https://tosennwadei.com)
- - November, 15: [Lotem Halevy](http://www.lotemhalevy.com)
- - November, 22: [Tye Rush](https://tyerush.com)
+ - October 04: [Nejla Asimovic](https://www.nejlaasimovic.com)
+ - October 11: [Gerald Higginbotham](https://gdhigginbotham.com)
+ - October 18: [Hannah Ridge](https://sites.google.com/view/hannahmridge/home?authuser=0)
+ - October 25: [Balbir Singh](https://www.balbirsingh.org)
+ - November 01: [Kesicia Dickinson](https://www.kesiciaadickinson.com)
+ - November 08: [Tosen Nwadei](https://tosennwadei.com)
+ - November 15: [Lotem Halevy](http://www.lotemhalevy.com)
+ - November 22: [Tye Rush](https://tyerush.com)
 
 ## Past Talks
 
