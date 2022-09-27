@@ -35,17 +35,18 @@ Sign up for the [mailing list](https://forms.gle/Ys17EbVyFyPfwg7P7) to receive t
 
 ## Fall 2022
 
- - September 27: [Justin Zimmerman](https://polisci.northwestern.edu/people/graduate-students/justin-zimmerman.html), "Race, Class, and Distrust"
- - October 04: [Nejla Asimovic](https://www.nejlaasimovic.com), "How Do Social Media and Language Barriers Shape Interethnic Relations? Evidence From Cyprus"
- - October 11: [Gerald Higginbotham](https://gdhigginbotham.com), "The Challenges and Opportunities of Considering U.S. Histories of Racism as a Critical Social Context"
- - October 18: [Hannah Ridge](https://sites.google.com/view/hannahmridge/home?authuser=0), "Ethnicity, Nationalism, and Democracy in Israel"
- - October 25: [Balbir Singh](https://www.balbirsingh.org), "Social Perception: Mechanisms and mitigation of social inequalities through the lens of face perception"
- - November 01: [Kesicia Dickinson](https://www.kesiciaadickinson.com), "How She Wins: An Exploration of the Candidacies of Black Women"
- - November 08: [Tosen Nwadei](https://tosennwadei.com), "The Price of (In)Authenticity for Black Americans: Cultural Self-Expression and Its Effects on Occupational Opportunities and Psychological Wellbeing"
- - November 15: [Lotem Halevy](http://www.lotemhalevy.com), "Who gets to play? How the (dis)enfranchisement of ethnonational minorities affects party system consolidation in Central Eastern Europe"
- - November 22: [Tye Rush](https://tyerush.com), "The Majority Rules: How Race Impacts State Legislator Voting Behavior on Voter Identification Bills"
+ - **October 04**: [Nejla Asimovic](https://www.nejlaasimovic.com), "How Do Social Media and Language Barriers Shape Interethnic Relations? Evidence From Cyprus"
+ - **October 11**: [Gerald Higginbotham](https://gdhigginbotham.com), "The Challenges and Opportunities of Considering U.S. Histories of Racism as a Critical Social Context"
+ - **October 18**: [Hannah Ridge](https://sites.google.com/view/hannahmridge/home?authuser=0), "Ethnicity, Nationalism, and Democracy in Israel"
+ - **October 25**: [Balbir Singh](https://www.balbirsingh.org), "Social Perception: Mechanisms and mitigation of social inequalities through the lens of face perception"
+ - **November 01**: [Kesicia Dickinson](https://www.kesiciaadickinson.com), "How She Wins: An Exploration of the Candidacies of Black Women"
+ - **November 08**: [Tosen Nwadei](https://tosennwadei.com), "The Price of (In)Authenticity for Black Americans: Cultural Self-Expression and Its Effects on Occupational Opportunities and Psychological Wellbeing"
+ - **November 15**: [Lotem Halevy](http://www.lotemhalevy.com), "Who gets to play? How the (dis)enfranchisement of ethnonational minorities affects party system consolidation in Central Eastern Europe"
+ - **November 22**: [Tye Rush](https://tyerush.com), "The Majority Rules: How Race Impacts State Legislator Voting Behavior on Voter Identification Bills"
 
 ## Past Talks
+
+ - **September 27**: [Justin Zimmerman](https://polisci.northwestern.edu/people/graduate-students/justin-zimmerman.html), "Race, Class, and Distrust" | [Video](https://youtu.be/3JL0sEFgzec)
 
 - **May 31**: [Nour Kteily](https://www.kellogg.northwestern.edu/faculty/directory/kteily_nour.aspx), "Beliefs about What Disadvantaged Groups Would Do with Power Shape Advantaged Groups’ (Un)Willingness to Share it" | [Video](https://youtu.be/Rk5I2lu5Le8)
 
