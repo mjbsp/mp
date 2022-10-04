@@ -36,7 +36,7 @@ Sign up for the [mailing list](https://forms.gle/Ys17EbVyFyPfwg7P7) to receive t
 ## Fall 2022
 
  - **October 04**: [Nejla Asimovic](https://www.nejlaasimovic.com), "How Do Social Media and Language Barriers Shape Interethnic Relations? Evidence From Cyprus"
- - **October 11**: [Gerald Higginbotham](https://gdhigginbotham.com), "The Challenges and Opportunities of Considering U.S. Histories of Racism as a Critical Social Context"
+ - **October 11**: [Gerald Higginbotham](https://gdhigginbotham.com), "U.S. Histories of Racism: A Critical Social Context and Motivated Mental Representation"
  - **October 18**: [Hannah Ridge](https://sites.google.com/view/hannahmridge/home?authuser=0), "Ethnicity, Nationalism, and Democracy in Israel"
  - **October 25**: [Balbir Singh](https://www.balbirsingh.org), "Social Perception: Mechanisms and mitigation of social inequalities through the lens of face perception"
  - **November 01**: [Kesicia Dickinson](https://www.kesiciaadickinson.com), "How She Wins: An Exploration of the Candidacies of Black Women"
