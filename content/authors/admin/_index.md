@@ -43,8 +43,8 @@ Sign up for the [mailing list](https://forms.gle/Ys17EbVyFyPfwg7P7) to receive t
 
 ## Past Talks
 
- - **October 18**: [Hannah Ridge](https://sites.google.com/view/hannahmridge/home?authuser=0), "Ethnicity, Nationalism, and Democracy in Israel"
- 
+ - **October 18**: [Hannah Ridge](https://sites.google.com/view/hannahmridge/home?authuser=0), "Ethnicity, Nationalism, and Democracy in Israel" | [Video](https://youtu.be/gUxMv7E2ZWQ)
+
  - **October 11**: [Gerald Higginbotham](https://gdhigginbotham.com), "U.S. Histories of Racism: A Critical Social Context and Motivated Mental Representation" | [Video](https://youtu.be/dxcZFsa0ERM)
 
  - **October 04**: [Nejla Asimovic](https://www.nejlaasimovic.com), "How Do Social Media and Language Barriers Shape Interethnic Relations? Evidence From Cyprus" | [Video](https://youtu.be/1eMk2TnIobU)
