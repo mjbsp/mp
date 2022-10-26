@@ -35,7 +35,6 @@ Sign up for the [mailing list](https://forms.gle/Ys17EbVyFyPfwg7P7) to receive t
 
 ## Fall 2022
 
- - **October 25**: [Balbir Singh](https://www.balbirsingh.org), "Social Perception: Mechanisms and mitigation of social inequalities through the lens of face perception"
  - **November 01**: [Kesicia Dickinson](https://www.kesiciaadickinson.com), "How She Wins: An Exploration of the Candidacies of Black Women"
  - **November 08**: [Tosen Nwadei](https://tosennwadei.com), "The Price of (In)Authenticity for Black Americans: Cultural Self-Expression and Its Effects on Occupational Opportunities and Psychological Wellbeing"
  - **November 15**: [Lotem Halevy](http://www.lotemhalevy.com), "Who gets to play? How the (dis)enfranchisement of ethnonational minorities affects party system consolidation in Central Eastern Europe"
@@ -43,6 +42,8 @@ Sign up for the [mailing list](https://forms.gle/Ys17EbVyFyPfwg7P7) to receive t
 
 ## Past Talks
 
+ - **October 25**: [Balbir Singh](https://www.balbirsingh.org), "Social Perception: Mechanisms and mitigation of social inequalities through the lens of face perception" | [Video](https://youtu.be/_bqGrYPOAoU)
+ 
  - **October 18**: [Hannah Ridge](https://sites.google.com/view/hannahmridge/home?authuser=0), "Ethnicity, Nationalism, and Democracy in Israel" | [Video](https://youtu.be/gUxMv7E2ZWQ)
 
  - **October 11**: [Gerald Higginbotham](https://gdhigginbotham.com), "U.S. Histories of Racism: A Critical Social Context and Motivated Mental Representation" | [Video](https://youtu.be/dxcZFsa0ERM)
