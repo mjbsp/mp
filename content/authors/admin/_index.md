@@ -43,7 +43,7 @@ Sign up for the [mailing list](https://forms.gle/Ys17EbVyFyPfwg7P7) to receive t
 ## Past Talks
 
  - **October 25**: [Balbir Singh](https://www.balbirsingh.org), "Social Perception: Mechanisms and mitigation of social inequalities through the lens of face perception" | [Video](https://youtu.be/_bqGrYPOAoU)
- 
+
  - **October 18**: [Hannah Ridge](https://sites.google.com/view/hannahmridge/home?authuser=0), "Ethnicity, Nationalism, and Democracy in Israel" | [Video](https://youtu.be/gUxMv7E2ZWQ)
 
  - **October 11**: [Gerald Higginbotham](https://gdhigginbotham.com), "U.S. Histories of Racism: A Critical Social Context and Motivated Mental Representation" | [Video](https://youtu.be/dxcZFsa0ERM)
@@ -187,3 +187,5 @@ Sign up for the [mailing list](https://forms.gle/Ys17EbVyFyPfwg7P7) to receive t
 **Organizers**: [Ana Bracic](https://www.anabracic.com/), [Mark Brandt](https://tbslaboratory.com/), [Nazita Lajevardi](http://www.nazitalajevardi.com/)
 
 [For our thoughts on MPOSS, see this publication](https://osf.io/f6gqa/)
+
+<a rel="me" href="https://mastodon.social/@mjbtbs" style=”display:none”></a>
