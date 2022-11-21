@@ -35,13 +35,14 @@ Sign up for the [mailing list](https://forms.gle/Ys17EbVyFyPfwg7P7) to receive t
 
 ## Fall 2022
 
- - **November 15**: [Lotem Halevy](http://www.lotemhalevy.com), "Who gets to play? How the (dis)enfranchisement of ethnonational minorities affects party system consolidation in Central Eastern Europe"
  - **November 22**: [Tye Rush](https://tyerush.com), "The Majority Rules: How Race Impacts State Legislator Voting Behavior on Voter Identification Bills"
 
 ## Past Talks
 
+- **November 15**: [Lotem Halevy](http://www.lotemhalevy.com), "Who gets to play? How the (dis)enfranchisement of ethnonational minorities affects party system consolidation in Central Eastern Europe"
+
  - **November 08**: [Tosen Nwadei](https://tosennwadei.com), "The Price of (In)Authenticity for Black Americans: Cultural Self-Expression and Its Effects on Occupational Opportunities and Psychological Wellbeing" | [Video](https://youtu.be/hdw1CJ-4usU)
- 
+
  - **November 01**: [Kesicia Dickinson](https://www.kesiciaadickinson.com), "How She Wins: An Exploration of the Candidacies of Black Women"
 
  - **October 25**: [Balbir Singh](https://www.balbirsingh.org), "Social Perception: Mechanisms and mitigation of social inequalities through the lens of face perception" | [Video](https://youtu.be/_bqGrYPOAoU)
