@@ -33,11 +33,9 @@ Talks are at 9 am PST, 12p EST, and 6p CET. They are 1 hour long, with a 40-45 m
 
 Sign up for the [mailing list](https://forms.gle/Ys17EbVyFyPfwg7P7) to receive the Zoom invitation and keep updated! Zoom invitations are sent approximately 24 hours before the start of the seminar. If you've signed up, but don't receive an invitation check the depths of your SPAM folder.
 
-## Fall 2022
-
- - **November 22**: [Tye Rush](https://tyerush.com), "The Majority Rules: How Race Impacts State Legislator Voting Behavior on Voter Identification Bills"
-
 ## Past Talks
+
+- **November 22**: [Tye Rush](https://tyerush.com), "The Majority Rules: How Race Impacts State Legislator Voting Behavior on Voter Identification Bills"
 
 - **November 15**: [Lotem Halevy](http://www.lotemhalevy.com), "Who gets to play? How the (dis)enfranchisement of ethnonational minorities affects party system consolidation in Central Eastern Europe"
 
